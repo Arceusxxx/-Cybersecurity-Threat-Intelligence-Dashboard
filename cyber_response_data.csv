@@ -1,0 +1,501 @@
+Incident_ID,Detection_Time_Minutes,Response_Team,Assigned_Analyst,Resolution_Time_Hours,SLA_Target_Hours,SLA_Met,Root_Cause_Identified,Post_Incident_Review
+INC-0001,664,Incident Response Team,Arjun Mehta,21.83,48,Yes,Yes,Not Required
+INC-0002,499,Incident Response Team,Neha Verma,7.76,24,Yes,No,Pending
+INC-0003,689,SOC Tier 2,Sara Fernandez,159.13,12,No,Yes,Not Required
+INC-0004,514,Incident Response Team,Wei Zhang,39.49,24,Yes,Yes,Completed
+INC-0005,616,External Vendor,Sara Fernandez,58.85,24,Yes,No,Completed
+INC-0006,149,SOC Tier 1,Wei Zhang,3.46,48,Yes,No,Not Required
+INC-0007,117,SOC Tier 2,Priya Nair,118.51,12,No,No,Not Required
+INC-0008,378,SOC Tier 1,Sara Fernandez,19.89,48,Yes,No,Not Required
+INC-0009,395,SOC Tier 1,Sara Fernandez,69.18,24,Yes,No,Pending
+INC-0010,10,SOC Tier 1,Sara Fernandez,30.72,24,Yes,No,Completed
+INC-0011,166,External Vendor,Pratik Chandra,46.93,24,Yes,No,Completed
+INC-0012,505,SOC Tier 1,Arjun Mehta,32.08,24,Yes,No,Not Required
+INC-0013,69,External Vendor,Pratik Chandra,9.09,48,Yes,Yes,Not Required
+INC-0014,658,SOC Tier 2,Liam O'Connor,112.01,12,No,No,Not Required
+INC-0015,86,SOC Tier 2,Tom Becker,20.97,24,Yes,No,Pending
+INC-0016,491,Incident Response Team,Liam O'Connor,21.09,48,Yes,Yes,Completed
+INC-0017,426,SOC Tier 2,Pratik Chandra,9.45,48,Yes,Yes,Not Required
+INC-0018,664,Incident Response Team,Arjun Mehta,15.08,48,Yes,Yes,Pending
+INC-0019,634,SOC Tier 1,Pratik Chandra,25.89,12,Yes,No,Pending
+INC-0020,691,Incident Response Team,Liam O'Connor,12.37,48,Yes,No,Pending
+INC-0021,135,SOC Tier 2,Tom Becker,18.05,24,Yes,Yes,Pending
+INC-0022,151,SOC Tier 2,Priya Nair,48.74,12,No,No,Completed
+INC-0023,12,SOC Tier 2,Tom Becker,164.01,12,No,No,Not Required
+INC-0024,613,SOC Tier 2,Wei Zhang,21.17,12,Yes,No,Not Required
+INC-0025,688,Incident Response Team,Tom Becker,23.25,48,Yes,No,Pending
+INC-0026,689,Incident Response Team,Arjun Mehta,9.53,48,Yes,No,Pending
+INC-0027,481,SOC Tier 1,Priya Nair,25.58,24,Yes,Yes,Completed
+INC-0028,513,Incident Response Team,Liam O'Connor,60.77,24,Yes,No,Not Required
+INC-0029,322,SOC Tier 2,Wei Zhang,11.02,48,Yes,Yes,Completed
+INC-0030,154,External Vendor,Tom Becker,2.26,48,Yes,Yes,Pending
+INC-0031,43,SOC Tier 1,Arjun Mehta,11.15,48,Yes,Yes,Pending
+INC-0032,97,Incident Response Team,Sara Fernandez,5.69,48,Yes,Yes,Not Required
+INC-0033,586,SOC Tier 1,Priya Nair,179.41,4,No,Yes,Pending
+INC-0034,699,SOC Tier 1,Priya Nair,12.3,24,Yes,Yes,Completed
+INC-0035,85,Incident Response Team,Pratik Chandra,86.86,12,No,No,Completed
+INC-0036,673,SOC Tier 2,Sara Fernandez,15.31,48,Yes,Yes,Not Required
+INC-0037,291,External Vendor,Neha Verma,320.99,4,No,No,Pending
+INC-0038,184,SOC Tier 2,Arjun Mehta,30.4,4,No,No,Pending
+INC-0039,293,External Vendor,Liam O'Connor,117.15,4,No,Yes,Pending
+INC-0040,683,External Vendor,Wei Zhang,28.99,24,Yes,No,Not Required
+INC-0041,616,External Vendor,Tom Becker,138.52,12,No,Yes,Completed
+INC-0042,527,SOC Tier 2,Wei Zhang,46.98,12,No,Yes,Pending
+INC-0043,481,SOC Tier 2,Liam O'Connor,11.06,48,Yes,Yes,Not Required
+INC-0044,439,SOC Tier 1,Tom Becker,7.8,48,Yes,No,Completed
+INC-0045,477,SOC Tier 1,Pratik Chandra,103.52,4,No,Yes,Not Required
+INC-0046,679,External Vendor,Liam O'Connor,11.65,48,Yes,No,Not Required
+INC-0047,467,SOC Tier 2,Sara Fernandez,18.42,48,Yes,Yes,Completed
+INC-0048,620,External Vendor,Neha Verma,6.96,48,Yes,Yes,Completed
+INC-0049,673,External Vendor,Liam O'Connor,51.04,24,Yes,No,Not Required
+INC-0050,691,SOC Tier 2,Pratik Chandra,49.91,24,Yes,Yes,Completed
+INC-0051,18,SOC Tier 2,Sara Fernandez,16.8,24,Yes,No,Not Required
+INC-0052,553,SOC Tier 1,Neha Verma,84.29,12,No,Yes,Completed
+INC-0053,457,SOC Tier 2,Liam O'Connor,36.06,24,Yes,No,Completed
+INC-0054,343,External Vendor,Liam O'Connor,1.18,48,Yes,Yes,Pending
+INC-0055,411,External Vendor,Sara Fernandez,44.19,24,Yes,Yes,Not Required
+INC-0056,21,External Vendor,Wei Zhang,25.48,24,Yes,Yes,Pending
+INC-0057,639,Incident Response Team,Sara Fernandez,120.81,12,No,No,Pending
+INC-0058,450,External Vendor,Arjun Mehta,6.34,48,Yes,No,Not Required
+INC-0059,401,External Vendor,Arjun Mehta,60.65,24,Yes,Yes,Pending
+INC-0060,709,External Vendor,Neha Verma,49.36,24,Yes,No,Pending
+INC-0061,312,Incident Response Team,Priya Nair,6.4,48,Yes,Yes,Completed
+INC-0062,517,SOC Tier 1,Sara Fernandez,216.68,4,No,No,Pending
+INC-0063,350,SOC Tier 2,Neha Verma,132.13,12,No,Yes,Pending
+INC-0064,470,SOC Tier 1,Pratik Chandra,23.14,48,Yes,Yes,Completed
+INC-0065,647,External Vendor,Wei Zhang,68.42,12,No,Yes,Completed
+INC-0066,664,External Vendor,Pratik Chandra,59.7,24,Yes,Yes,Pending
+INC-0067,351,External Vendor,Priya Nair,247.14,4,No,Yes,Completed
+INC-0068,544,External Vendor,Wei Zhang,10.7,48,Yes,No,Completed
+INC-0069,455,SOC Tier 1,Priya Nair,4.68,24,Yes,No,Pending
+INC-0070,170,SOC Tier 2,Pratik Chandra,30.74,24,Yes,No,Pending
+INC-0071,413,Incident Response Team,Priya Nair,51.65,24,Yes,Yes,Pending
+INC-0072,542,External Vendor,Priya Nair,15.04,48,Yes,No,Completed
+INC-0073,310,SOC Tier 2,Liam O'Connor,40.55,24,Yes,Yes,Completed
+INC-0074,525,SOC Tier 1,Liam O'Connor,73.93,4,No,Yes,Pending
+INC-0075,434,Incident Response Team,Neha Verma,21.35,12,Yes,Yes,Not Required
+INC-0076,129,SOC Tier 2,Sara Fernandez,42.93,24,Yes,No,Pending
+INC-0077,293,External Vendor,Sara Fernandez,16.34,48,Yes,Yes,Pending
+INC-0078,530,External Vendor,Tom Becker,68.36,12,No,Yes,Completed
+INC-0079,65,External Vendor,Tom Becker,10.77,48,Yes,No,Not Required
+INC-0080,512,External Vendor,Arjun Mehta,119.49,12,No,Yes,Not Required
+INC-0081,132,SOC Tier 1,Sara Fernandez,184.11,4,No,No,Pending
+INC-0082,35,External Vendor,Neha Verma,18.17,48,Yes,Yes,Pending
+INC-0083,587,Incident Response Team,Liam O'Connor,39.55,24,Yes,No,Pending
+INC-0084,30,Incident Response Team,Liam O'Connor,39.18,4,No,Yes,Completed
+INC-0085,502,External Vendor,Liam O'Connor,1.05,48,Yes,No,Pending
+INC-0086,388,External Vendor,Wei Zhang,106.49,12,No,No,Completed
+INC-0087,335,External Vendor,Priya Nair,3.05,48,Yes,Yes,Not Required
+INC-0088,455,Incident Response Team,Neha Verma,147.09,12,No,Yes,Completed
+INC-0089,635,External Vendor,Pratik Chandra,55.52,24,Yes,Yes,Not Required
+INC-0090,546,External Vendor,Neha Verma,5.13,48,Yes,No,Pending
+INC-0091,605,External Vendor,Pratik Chandra,15.63,12,Yes,No,Pending
+INC-0092,265,SOC Tier 2,Liam O'Connor,70.63,24,Yes,Yes,Completed
+INC-0093,316,SOC Tier 2,Pratik Chandra,22.9,48,Yes,Yes,Pending
+INC-0094,401,SOC Tier 1,Pratik Chandra,151.31,12,No,Yes,Completed
+INC-0095,613,SOC Tier 1,Liam O'Connor,14.48,48,Yes,Yes,Pending
+INC-0096,477,SOC Tier 1,Liam O'Connor,8.45,24,Yes,Yes,Completed
+INC-0097,570,SOC Tier 2,Arjun Mehta,12.54,24,Yes,No,Not Required
+INC-0098,174,External Vendor,Pratik Chandra,308.39,4,No,Yes,Pending
+INC-0099,637,External Vendor,Liam O'Connor,7.65,48,Yes,No,Not Required
+INC-0100,391,Incident Response Team,Pratik Chandra,61.29,24,Yes,Yes,Not Required
+INC-0101,548,SOC Tier 2,Liam O'Connor,62.37,4,No,No,Completed
+INC-0102,627,Incident Response Team,Wei Zhang,318.97,4,No,No,Completed
+INC-0103,680,SOC Tier 1,Arjun Mehta,211.05,4,No,Yes,Not Required
+INC-0104,489,External Vendor,Tom Becker,197.41,4,No,Yes,Not Required
+INC-0105,668,SOC Tier 1,Priya Nair,141.81,12,No,No,Not Required
+INC-0106,368,SOC Tier 1,Wei Zhang,9.9,48,Yes,No,Completed
+INC-0107,457,Incident Response Team,Sara Fernandez,130.31,12,No,Yes,Not Required
+INC-0108,642,Incident Response Team,Pratik Chandra,7.97,48,Yes,No,Pending
+INC-0109,622,Incident Response Team,Wei Zhang,147.58,4,No,Yes,Not Required
+INC-0110,200,SOC Tier 1,Arjun Mehta,200.32,4,No,Yes,Completed
+INC-0111,267,Incident Response Team,Sara Fernandez,251.42,4,No,Yes,Not Required
+INC-0112,696,External Vendor,Pratik Chandra,21.2,24,Yes,No,Pending
+INC-0113,418,SOC Tier 1,Sara Fernandez,50.25,24,Yes,Yes,Pending
+INC-0114,432,SOC Tier 1,Sara Fernandez,13.25,48,Yes,No,Completed
+INC-0115,257,SOC Tier 1,Wei Zhang,26.39,24,Yes,No,Completed
+INC-0116,608,External Vendor,Sara Fernandez,101.11,4,No,No,Completed
+INC-0117,343,External Vendor,Neha Verma,23.37,12,Yes,No,Not Required
+INC-0118,129,SOC Tier 1,Arjun Mehta,8.13,24,Yes,Yes,Pending
+INC-0119,58,SOC Tier 1,Liam O'Connor,235.4,4,No,No,Pending
+INC-0120,100,SOC Tier 1,Wei Zhang,15.2,48,Yes,No,Pending
+INC-0121,440,SOC Tier 1,Wei Zhang,316.53,4,No,No,Not Required
+INC-0122,199,SOC Tier 2,Arjun Mehta,208.98,4,No,No,Pending
+INC-0123,433,SOC Tier 1,Pratik Chandra,46.22,24,Yes,Yes,Pending
+INC-0124,600,SOC Tier 2,Arjun Mehta,121.09,4,No,No,Pending
+INC-0125,619,SOC Tier 2,Pratik Chandra,13.26,12,Yes,Yes,Not Required
+INC-0126,574,SOC Tier 2,Neha Verma,42.48,12,No,No,Completed
+INC-0127,685,Incident Response Team,Liam O'Connor,11.94,48,Yes,No,Pending
+INC-0128,168,SOC Tier 1,Sara Fernandez,63.58,24,Yes,Yes,Pending
+INC-0129,640,External Vendor,Sara Fernandez,36.69,24,Yes,No,Completed
+INC-0130,8,Incident Response Team,Wei Zhang,9.01,24,Yes,Yes,Not Required
+INC-0131,601,Incident Response Team,Arjun Mehta,86.13,4,No,Yes,Pending
+INC-0132,180,Incident Response Team,Neha Verma,30.71,4,No,Yes,Not Required
+INC-0133,142,Incident Response Team,Wei Zhang,29.31,12,Yes,Yes,Pending
+INC-0134,383,External Vendor,Neha Verma,68.0,24,Yes,Yes,Completed
+INC-0135,135,External Vendor,Sara Fernandez,19.28,48,Yes,Yes,Not Required
+INC-0136,603,SOC Tier 1,Liam O'Connor,126.24,4,No,Yes,Not Required
+INC-0137,600,SOC Tier 1,Arjun Mehta,18.23,24,Yes,No,Not Required
+INC-0138,523,External Vendor,Wei Zhang,39.28,24,Yes,No,Pending
+INC-0139,597,SOC Tier 2,Sara Fernandez,35.42,4,No,No,Completed
+INC-0140,407,Incident Response Team,Liam O'Connor,6.03,48,Yes,Yes,Completed
+INC-0141,88,Incident Response Team,Tom Becker,7.79,48,Yes,No,Pending
+INC-0142,444,SOC Tier 2,Wei Zhang,10.41,48,Yes,Yes,Pending
+INC-0143,662,SOC Tier 1,Liam O'Connor,2.75,48,Yes,Yes,Completed
+INC-0144,123,Incident Response Team,Liam O'Connor,43.25,12,No,No,Not Required
+INC-0145,701,Incident Response Team,Pratik Chandra,106.23,12,No,No,Pending
+INC-0146,356,SOC Tier 1,Wei Zhang,31.46,24,Yes,Yes,Pending
+INC-0147,235,External Vendor,Wei Zhang,184.94,4,No,No,Completed
+INC-0148,322,External Vendor,Wei Zhang,20.45,48,Yes,Yes,Pending
+INC-0149,144,Incident Response Team,Priya Nair,159.16,12,No,Yes,Pending
+INC-0150,437,Incident Response Team,Pratik Chandra,16.77,48,Yes,Yes,Completed
+INC-0151,159,External Vendor,Tom Becker,100.64,12,No,Yes,Pending
+INC-0152,67,External Vendor,Liam O'Connor,13.29,48,Yes,Yes,Completed
+INC-0153,108,SOC Tier 1,Arjun Mehta,16.52,48,Yes,Yes,Completed
+INC-0154,397,SOC Tier 1,Priya Nair,19.85,24,Yes,Yes,Completed
+INC-0155,336,External Vendor,Wei Zhang,36.5,12,No,Yes,Pending
+INC-0156,213,External Vendor,Arjun Mehta,79.42,12,No,No,Not Required
+INC-0157,209,SOC Tier 2,Wei Zhang,50.57,24,Yes,Yes,Pending
+INC-0158,621,External Vendor,Wei Zhang,39.76,24,Yes,Yes,Not Required
+INC-0159,95,Incident Response Team,Tom Becker,7.62,48,Yes,Yes,Pending
+INC-0160,257,SOC Tier 2,Neha Verma,5.13,48,Yes,No,Not Required
+INC-0161,46,Incident Response Team,Neha Verma,54.71,12,No,Yes,Pending
+INC-0162,423,SOC Tier 1,Priya Nair,167.27,12,No,No,Pending
+INC-0163,170,External Vendor,Tom Becker,6.81,48,Yes,No,Not Required
+INC-0164,410,SOC Tier 2,Priya Nair,20.68,48,Yes,No,Pending
+INC-0165,474,SOC Tier 2,Wei Zhang,2.57,48,Yes,No,Completed
+INC-0166,176,External Vendor,Arjun Mehta,20.29,48,Yes,Yes,Not Required
+INC-0167,13,SOC Tier 1,Sara Fernandez,67.86,12,No,No,Not Required
+INC-0168,50,SOC Tier 1,Tom Becker,59.18,24,Yes,No,Pending
+INC-0169,55,SOC Tier 2,Priya Nair,86.94,4,No,Yes,Completed
+INC-0170,95,SOC Tier 1,Sara Fernandez,5.9,24,Yes,Yes,Not Required
+INC-0171,173,Incident Response Team,Sara Fernandez,278.47,4,No,Yes,Not Required
+INC-0172,406,SOC Tier 2,Pratik Chandra,12.21,24,Yes,No,Not Required
+INC-0173,325,Incident Response Team,Priya Nair,46.34,12,No,Yes,Completed
+INC-0174,225,SOC Tier 2,Liam O'Connor,10.46,48,Yes,Yes,Not Required
+INC-0175,334,SOC Tier 2,Priya Nair,51.35,24,Yes,Yes,Not Required
+INC-0176,706,External Vendor,Tom Becker,61.91,24,Yes,Yes,Not Required
+INC-0177,603,SOC Tier 1,Liam O'Connor,15.31,12,Yes,Yes,Not Required
+INC-0178,440,Incident Response Team,Sara Fernandez,18.42,48,Yes,Yes,Pending
+INC-0179,211,External Vendor,Priya Nair,15.77,48,Yes,Yes,Pending
+INC-0180,327,Incident Response Team,Pratik Chandra,55.71,24,Yes,Yes,Not Required
+INC-0181,341,SOC Tier 2,Sara Fernandez,20.44,12,Yes,No,Not Required
+INC-0182,331,SOC Tier 2,Pratik Chandra,5.22,48,Yes,Yes,Completed
+INC-0183,130,SOC Tier 2,Neha Verma,3.11,48,Yes,No,Not Required
+INC-0184,480,SOC Tier 2,Liam O'Connor,53.07,24,Yes,No,Not Required
+INC-0185,461,Incident Response Team,Tom Becker,17.7,24,Yes,No,Completed
+INC-0186,484,External Vendor,Pratik Chandra,126.65,12,No,No,Pending
+INC-0187,87,SOC Tier 2,Liam O'Connor,71.67,4,No,No,Pending
+INC-0188,315,SOC Tier 2,Wei Zhang,29.51,24,Yes,Yes,Completed
+INC-0189,196,External Vendor,Tom Becker,62.59,24,Yes,No,Not Required
+INC-0190,384,SOC Tier 1,Neha Verma,46.23,4,No,No,Not Required
+INC-0191,168,Incident Response Team,Wei Zhang,51.82,12,No,No,Not Required
+INC-0192,61,SOC Tier 1,Priya Nair,126.76,12,No,Yes,Not Required
+INC-0193,683,Incident Response Team,Sara Fernandez,15.84,48,Yes,Yes,Completed
+INC-0194,121,SOC Tier 1,Sara Fernandez,18.73,48,Yes,No,Completed
+INC-0195,439,External Vendor,Liam O'Connor,24.55,24,Yes,No,Not Required
+INC-0196,93,Incident Response Team,Sara Fernandez,42.94,24,Yes,No,Not Required
+INC-0197,317,External Vendor,Tom Becker,54.22,4,No,No,Not Required
+INC-0198,443,SOC Tier 2,Neha Verma,29.48,24,Yes,No,Not Required
+INC-0199,219,Incident Response Team,Tom Becker,40.51,12,No,No,Not Required
+INC-0200,641,SOC Tier 1,Liam O'Connor,24.45,12,Yes,Yes,Pending
+INC-0201,32,SOC Tier 1,Liam O'Connor,55.45,4,No,Yes,Not Required
+INC-0202,598,External Vendor,Liam O'Connor,6.85,24,Yes,No,Pending
+INC-0203,347,Incident Response Team,Sara Fernandez,14.9,48,Yes,No,Not Required
+INC-0204,410,SOC Tier 1,Pratik Chandra,9.7,48,Yes,No,Not Required
+INC-0205,413,Incident Response Team,Sara Fernandez,33.66,12,Yes,No,Pending
+INC-0206,635,SOC Tier 1,Priya Nair,16.78,48,Yes,Yes,Not Required
+INC-0207,370,SOC Tier 2,Wei Zhang,69.93,24,Yes,No,Not Required
+INC-0208,629,External Vendor,Neha Verma,158.5,12,No,No,Pending
+INC-0209,623,SOC Tier 1,Arjun Mehta,13.73,24,Yes,No,Completed
+INC-0210,310,External Vendor,Neha Verma,166.01,12,No,No,Not Required
+INC-0211,555,SOC Tier 1,Neha Verma,6.54,48,Yes,No,Not Required
+INC-0212,31,SOC Tier 2,Liam O'Connor,263.09,4,No,No,Not Required
+INC-0213,128,Incident Response Team,Sara Fernandez,110.83,12,No,Yes,Not Required
+INC-0214,353,External Vendor,Sara Fernandez,9.67,48,Yes,Yes,Pending
+INC-0215,120,SOC Tier 2,Neha Verma,11.57,24,Yes,No,Completed
+INC-0216,322,SOC Tier 2,Tom Becker,22.94,48,Yes,No,Pending
+INC-0217,375,SOC Tier 2,Neha Verma,31.7,12,Yes,No,Completed
+INC-0218,553,SOC Tier 2,Wei Zhang,116.61,4,No,No,Completed
+INC-0219,617,SOC Tier 1,Priya Nair,54.8,24,Yes,No,Not Required
+INC-0220,707,SOC Tier 2,Wei Zhang,3.84,48,Yes,No,Not Required
+INC-0221,387,SOC Tier 2,Pratik Chandra,59.09,24,Yes,Yes,Pending
+INC-0222,403,SOC Tier 1,Tom Becker,7.88,48,Yes,No,Pending
+INC-0223,696,Incident Response Team,Liam O'Connor,11.89,48,Yes,Yes,Not Required
+INC-0224,563,SOC Tier 1,Liam O'Connor,129.35,12,No,No,Not Required
+INC-0225,169,SOC Tier 2,Sara Fernandez,87.26,12,No,Yes,Not Required
+INC-0226,668,SOC Tier 2,Tom Becker,1.21,48,Yes,No,Not Required
+INC-0227,174,SOC Tier 1,Neha Verma,163.97,12,No,No,Not Required
+INC-0228,446,SOC Tier 2,Tom Becker,23.3,48,Yes,No,Pending
+INC-0229,706,SOC Tier 1,Wei Zhang,266.07,4,No,No,Pending
+INC-0230,649,External Vendor,Sara Fernandez,16.02,48,Yes,Yes,Not Required
+INC-0231,588,SOC Tier 2,Tom Becker,36.61,24,Yes,No,Not Required
+INC-0232,446,SOC Tier 2,Tom Becker,12.52,24,Yes,Yes,Pending
+INC-0233,571,SOC Tier 1,Sara Fernandez,57.28,24,Yes,Yes,Completed
+INC-0234,615,SOC Tier 1,Arjun Mehta,16.99,48,Yes,Yes,Not Required
+INC-0235,167,SOC Tier 1,Liam O'Connor,50.4,4,No,No,Not Required
+INC-0236,177,Incident Response Team,Wei Zhang,12.01,12,Yes,Yes,Not Required
+INC-0237,504,SOC Tier 2,Neha Verma,133.86,4,No,Yes,Completed
+INC-0238,39,SOC Tier 2,Priya Nair,5.33,48,Yes,No,Completed
+INC-0239,639,SOC Tier 2,Tom Becker,41.39,24,Yes,No,Completed
+INC-0240,262,Incident Response Team,Sara Fernandez,34.35,12,Yes,No,Not Required
+INC-0241,675,Incident Response Team,Tom Becker,38.78,24,Yes,No,Completed
+INC-0242,620,External Vendor,Neha Verma,94.91,12,No,No,Not Required
+INC-0243,93,SOC Tier 2,Liam O'Connor,54.63,12,No,Yes,Completed
+INC-0244,388,SOC Tier 1,Arjun Mehta,160.48,12,No,No,Not Required
+INC-0245,503,Incident Response Team,Neha Verma,3.2,48,Yes,Yes,Completed
+INC-0246,327,External Vendor,Wei Zhang,30.49,24,Yes,Yes,Pending
+INC-0247,11,Incident Response Team,Pratik Chandra,114.58,12,No,No,Not Required
+INC-0248,257,Incident Response Team,Wei Zhang,160.96,4,No,No,Pending
+INC-0249,440,SOC Tier 1,Liam O'Connor,95.37,4,No,No,Pending
+INC-0250,94,SOC Tier 1,Neha Verma,49.45,12,No,No,Not Required
+INC-0251,506,SOC Tier 2,Wei Zhang,19.59,48,Yes,No,Not Required
+INC-0252,703,SOC Tier 2,Pratik Chandra,120.87,12,No,No,Not Required
+INC-0253,549,SOC Tier 1,Wei Zhang,18.24,48,Yes,Yes,Not Required
+INC-0254,538,Incident Response Team,Pratik Chandra,21.79,48,Yes,No,Pending
+INC-0255,390,SOC Tier 1,Liam O'Connor,4.92,48,Yes,No,Pending
+INC-0256,302,Incident Response Team,Pratik Chandra,110.46,12,No,No,Not Required
+INC-0257,501,SOC Tier 1,Pratik Chandra,4.4,24,Yes,No,Not Required
+INC-0258,192,SOC Tier 2,Tom Becker,85.63,4,No,Yes,Pending
+INC-0259,9,Incident Response Team,Priya Nair,48.65,24,Yes,No,Completed
+INC-0260,551,SOC Tier 2,Arjun Mehta,11.39,24,Yes,No,Not Required
+INC-0261,446,Incident Response Team,Pratik Chandra,122.64,12,No,Yes,Pending
+INC-0262,433,External Vendor,Liam O'Connor,18.11,48,Yes,Yes,Pending
+INC-0263,502,External Vendor,Tom Becker,13.65,48,Yes,Yes,Completed
+INC-0264,112,SOC Tier 2,Pratik Chandra,12.58,24,Yes,No,Pending
+INC-0265,613,External Vendor,Sara Fernandez,33.53,24,Yes,Yes,Not Required
+INC-0266,525,SOC Tier 2,Tom Becker,23.12,24,Yes,Yes,Pending
+INC-0267,107,SOC Tier 2,Sara Fernandez,17.13,48,Yes,Yes,Completed
+INC-0268,412,SOC Tier 2,Neha Verma,1.88,48,Yes,Yes,Pending
+INC-0269,419,External Vendor,Wei Zhang,93.19,4,No,Yes,Not Required
+INC-0270,439,Incident Response Team,Tom Becker,24.69,24,Yes,Yes,Pending
+INC-0271,50,Incident Response Team,Wei Zhang,5.18,48,Yes,No,Not Required
+INC-0272,105,SOC Tier 1,Neha Verma,88.64,12,No,Yes,Not Required
+INC-0273,567,Incident Response Team,Sara Fernandez,68.25,12,No,No,Completed
+INC-0274,600,SOC Tier 1,Pratik Chandra,64.33,24,Yes,Yes,Completed
+INC-0275,458,External Vendor,Sara Fernandez,97.27,12,No,Yes,Completed
+INC-0276,132,Incident Response Team,Priya Nair,41.43,24,Yes,No,Not Required
+INC-0277,122,SOC Tier 1,Arjun Mehta,21.95,48,Yes,No,Not Required
+INC-0278,134,SOC Tier 2,Tom Becker,7.66,48,Yes,No,Not Required
+INC-0279,547,External Vendor,Tom Becker,70.06,24,Yes,No,Not Required
+INC-0280,280,SOC Tier 1,Wei Zhang,4.24,24,Yes,No,Pending
+INC-0281,227,SOC Tier 2,Liam O'Connor,7.82,48,Yes,Yes,Not Required
+INC-0282,153,SOC Tier 1,Sara Fernandez,22.89,24,Yes,Yes,Not Required
+INC-0283,120,SOC Tier 1,Liam O'Connor,1.03,48,Yes,Yes,Pending
+INC-0284,628,Incident Response Team,Sara Fernandez,71.0,24,Yes,No,Completed
+INC-0285,264,SOC Tier 1,Tom Becker,164.69,12,No,No,Not Required
+INC-0286,651,SOC Tier 2,Tom Becker,80.98,12,No,Yes,Pending
+INC-0287,239,External Vendor,Arjun Mehta,33.51,24,Yes,No,Completed
+INC-0288,182,SOC Tier 1,Liam O'Connor,125.8,12,No,Yes,Completed
+INC-0289,405,External Vendor,Tom Becker,16.77,24,Yes,Yes,Not Required
+INC-0290,541,External Vendor,Pratik Chandra,4.16,48,Yes,Yes,Completed
+INC-0291,661,SOC Tier 1,Pratik Chandra,107.51,4,No,Yes,Not Required
+INC-0292,348,External Vendor,Arjun Mehta,20.61,48,Yes,No,Pending
+INC-0293,492,SOC Tier 1,Pratik Chandra,4.55,48,Yes,Yes,Completed
+INC-0294,559,SOC Tier 2,Pratik Chandra,7.82,48,Yes,Yes,Pending
+INC-0295,396,External Vendor,Neha Verma,48.56,24,Yes,No,Completed
+INC-0296,114,Incident Response Team,Neha Verma,6.16,48,Yes,No,Completed
+INC-0297,46,External Vendor,Arjun Mehta,14.9,48,Yes,No,Not Required
+INC-0298,295,Incident Response Team,Neha Verma,11.07,24,Yes,Yes,Completed
+INC-0299,673,External Vendor,Neha Verma,14.05,24,Yes,Yes,Not Required
+INC-0300,439,SOC Tier 2,Tom Becker,22.94,24,Yes,No,Pending
+INC-0301,508,Incident Response Team,Arjun Mehta,10.75,48,Yes,Yes,Pending
+INC-0302,430,SOC Tier 2,Tom Becker,40.63,24,Yes,Yes,Not Required
+INC-0303,433,SOC Tier 1,Sara Fernandez,138.56,12,No,No,Completed
+INC-0304,210,SOC Tier 1,Pratik Chandra,23.86,48,Yes,No,Pending
+INC-0305,144,External Vendor,Sara Fernandez,7.78,48,Yes,Yes,Completed
+INC-0306,59,SOC Tier 1,Tom Becker,18.18,48,Yes,No,Completed
+INC-0307,720,SOC Tier 2,Pratik Chandra,86.38,12,No,Yes,Pending
+INC-0308,146,SOC Tier 2,Arjun Mehta,9.24,24,Yes,No,Not Required
+INC-0309,145,Incident Response Team,Wei Zhang,152.4,4,No,Yes,Pending
+INC-0310,115,SOC Tier 2,Pratik Chandra,258.35,4,No,No,Pending
+INC-0311,698,Incident Response Team,Sara Fernandez,122.98,12,No,No,Completed
+INC-0312,280,SOC Tier 2,Tom Becker,39.46,24,Yes,Yes,Completed
+INC-0313,403,External Vendor,Wei Zhang,5.22,48,Yes,No,Not Required
+INC-0314,659,External Vendor,Sara Fernandez,139.9,4,No,No,Completed
+INC-0315,108,Incident Response Team,Arjun Mehta,144.07,12,No,Yes,Completed
+INC-0316,218,SOC Tier 1,Sara Fernandez,196.13,4,No,No,Completed
+INC-0317,585,Incident Response Team,Neha Verma,13.99,48,Yes,No,Completed
+INC-0318,367,External Vendor,Priya Nair,69.19,24,Yes,Yes,Not Required
+INC-0319,692,SOC Tier 2,Pratik Chandra,31.7,24,Yes,No,Pending
+INC-0320,602,SOC Tier 1,Neha Verma,20.98,48,Yes,Yes,Completed
+INC-0321,699,Incident Response Team,Wei Zhang,324.66,4,No,Yes,Pending
+INC-0322,299,External Vendor,Sara Fernandez,79.22,12,No,Yes,Not Required
+INC-0323,623,SOC Tier 1,Arjun Mehta,2.72,48,Yes,No,Not Required
+INC-0324,91,SOC Tier 1,Liam O'Connor,12.47,48,Yes,No,Pending
+INC-0325,93,Incident Response Team,Wei Zhang,331.68,4,No,Yes,Completed
+INC-0326,584,SOC Tier 2,Wei Zhang,12.23,48,Yes,No,Not Required
+INC-0327,641,Incident Response Team,Pratik Chandra,29.41,24,Yes,Yes,Not Required
+INC-0328,252,External Vendor,Arjun Mehta,42.13,24,Yes,No,Completed
+INC-0329,230,External Vendor,Neha Verma,26.59,12,Yes,Yes,Completed
+INC-0330,112,Incident Response Team,Neha Verma,22.1,48,Yes,No,Pending
+INC-0331,620,SOC Tier 1,Arjun Mehta,51.76,24,Yes,No,Completed
+INC-0332,657,SOC Tier 1,Priya Nair,166.1,12,No,No,Pending
+INC-0333,220,Incident Response Team,Liam O'Connor,63.03,24,Yes,Yes,Completed
+INC-0334,147,External Vendor,Sara Fernandez,2.59,48,Yes,No,Completed
+INC-0335,57,SOC Tier 2,Sara Fernandez,65.31,24,Yes,No,Pending
+INC-0336,495,Incident Response Team,Tom Becker,241.37,4,No,Yes,Not Required
+INC-0337,613,Incident Response Team,Pratik Chandra,53.15,24,Yes,Yes,Pending
+INC-0338,153,Incident Response Team,Pratik Chandra,12.49,48,Yes,No,Completed
+INC-0339,651,SOC Tier 2,Tom Becker,11.33,48,Yes,Yes,Not Required
+INC-0340,388,SOC Tier 1,Priya Nair,5.97,48,Yes,No,Completed
+INC-0341,311,External Vendor,Tom Becker,38.14,24,Yes,No,Pending
+INC-0342,362,SOC Tier 2,Wei Zhang,20.05,48,Yes,No,Pending
+INC-0343,183,External Vendor,Liam O'Connor,15.06,24,Yes,Yes,Completed
+INC-0344,108,SOC Tier 1,Wei Zhang,3.06,48,Yes,Yes,Not Required
+INC-0345,298,SOC Tier 1,Sara Fernandez,20.59,48,Yes,No,Completed
+INC-0346,361,External Vendor,Pratik Chandra,23.26,48,Yes,No,Completed
+INC-0347,521,External Vendor,Sara Fernandez,53.26,12,No,Yes,Pending
+INC-0348,35,Incident Response Team,Priya Nair,14.43,24,Yes,Yes,Not Required
+INC-0349,442,SOC Tier 1,Tom Becker,6.56,48,Yes,Yes,Not Required
+INC-0350,401,External Vendor,Sara Fernandez,15.81,24,Yes,Yes,Not Required
+INC-0351,131,Incident Response Team,Arjun Mehta,134.35,12,No,No,Completed
+INC-0352,97,SOC Tier 1,Neha Verma,110.11,12,No,No,Completed
+INC-0353,135,SOC Tier 2,Liam O'Connor,47.14,24,Yes,Yes,Not Required
+INC-0354,253,SOC Tier 1,Liam O'Connor,17.71,48,Yes,Yes,Completed
+INC-0355,644,SOC Tier 1,Neha Verma,70.97,24,Yes,Yes,Pending
+INC-0356,270,SOC Tier 2,Tom Becker,21.58,48,Yes,Yes,Pending
+INC-0357,24,External Vendor,Tom Becker,10.52,48,Yes,No,Not Required
+INC-0358,463,SOC Tier 1,Neha Verma,13.58,12,Yes,No,Pending
+INC-0359,497,Incident Response Team,Neha Verma,23.88,48,Yes,Yes,Not Required
+INC-0360,32,Incident Response Team,Neha Verma,39.22,24,Yes,Yes,Completed
+INC-0361,337,Incident Response Team,Wei Zhang,9.67,24,Yes,Yes,Completed
+INC-0362,358,External Vendor,Tom Becker,84.86,12,No,Yes,Pending
+INC-0363,179,SOC Tier 1,Liam O'Connor,61.53,24,Yes,Yes,Completed
+INC-0364,501,Incident Response Team,Neha Verma,108.76,4,No,No,Pending
+INC-0365,206,SOC Tier 2,Pratik Chandra,14.04,48,Yes,No,Not Required
+INC-0366,421,Incident Response Team,Tom Becker,7.75,48,Yes,Yes,Completed
+INC-0367,186,SOC Tier 2,Priya Nair,19.61,48,Yes,No,Completed
+INC-0368,323,External Vendor,Priya Nair,3.81,48,Yes,Yes,Not Required
+INC-0369,69,Incident Response Team,Neha Verma,44.92,24,Yes,No,Not Required
+INC-0370,447,External Vendor,Pratik Chandra,8.31,48,Yes,No,Pending
+INC-0371,124,SOC Tier 1,Liam O'Connor,3.85,48,Yes,Yes,Not Required
+INC-0372,591,External Vendor,Pratik Chandra,65.99,24,Yes,Yes,Pending
+INC-0373,662,Incident Response Team,Liam O'Connor,141.46,12,No,No,Pending
+INC-0374,411,Incident Response Team,Wei Zhang,2.83,48,Yes,No,Not Required
+INC-0375,126,SOC Tier 1,Arjun Mehta,67.76,24,Yes,Yes,Pending
+INC-0376,706,Incident Response Team,Pratik Chandra,17.66,48,Yes,Yes,Pending
+INC-0377,46,External Vendor,Liam O'Connor,3.55,48,Yes,Yes,Completed
+INC-0378,599,External Vendor,Wei Zhang,12.59,24,Yes,Yes,Not Required
+INC-0379,542,External Vendor,Sara Fernandez,6.53,48,Yes,Yes,Pending
+INC-0380,305,SOC Tier 2,Neha Verma,99.62,4,No,Yes,Pending
+INC-0381,63,External Vendor,Neha Verma,49.59,24,Yes,No,Completed
+INC-0382,606,External Vendor,Arjun Mehta,60.88,12,No,Yes,Completed
+INC-0383,226,SOC Tier 2,Tom Becker,22.08,48,Yes,Yes,Completed
+INC-0384,286,SOC Tier 1,Arjun Mehta,10.73,48,Yes,No,Completed
+INC-0385,114,External Vendor,Priya Nair,32.92,4,No,No,Completed
+INC-0386,565,Incident Response Team,Pratik Chandra,2.93,48,Yes,No,Pending
+INC-0387,380,Incident Response Team,Sara Fernandez,48.11,24,Yes,No,Completed
+INC-0388,610,SOC Tier 1,Sara Fernandez,45.31,24,Yes,Yes,Completed
+INC-0389,119,SOC Tier 1,Liam O'Connor,2.22,48,Yes,Yes,Not Required
+INC-0390,718,Incident Response Team,Wei Zhang,30.65,24,Yes,Yes,Completed
+INC-0391,210,SOC Tier 1,Arjun Mehta,105.02,12,No,No,Not Required
+INC-0392,314,SOC Tier 2,Arjun Mehta,20.61,48,Yes,No,Pending
+INC-0393,147,Incident Response Team,Neha Verma,23.13,48,Yes,Yes,Not Required
+INC-0394,11,SOC Tier 2,Wei Zhang,14.66,48,Yes,Yes,Completed
+INC-0395,19,SOC Tier 2,Arjun Mehta,14.05,48,Yes,Yes,Completed
+INC-0396,313,Incident Response Team,Wei Zhang,26.83,24,Yes,No,Pending
+INC-0397,471,External Vendor,Neha Verma,302.11,4,No,No,Not Required
+INC-0398,533,SOC Tier 2,Priya Nair,17.75,48,Yes,No,Completed
+INC-0399,252,SOC Tier 1,Sara Fernandez,14.28,48,Yes,No,Not Required
+INC-0400,112,External Vendor,Arjun Mehta,23.21,48,Yes,No,Not Required
+INC-0401,359,Incident Response Team,Sara Fernandez,30.59,24,Yes,Yes,Not Required
+INC-0402,534,Incident Response Team,Liam O'Connor,31.18,12,Yes,Yes,Completed
+INC-0403,512,Incident Response Team,Arjun Mehta,118.22,12,No,No,Pending
+INC-0404,297,SOC Tier 1,Pratik Chandra,2.49,48,Yes,No,Pending
+INC-0405,7,Incident Response Team,Liam O'Connor,12.1,12,Yes,Yes,Completed
+INC-0406,279,Incident Response Team,Sara Fernandez,53.85,24,Yes,Yes,Pending
+INC-0407,365,SOC Tier 1,Liam O'Connor,72.25,12,No,No,Not Required
+INC-0408,320,SOC Tier 2,Sara Fernandez,33.64,24,Yes,No,Completed
+INC-0409,428,External Vendor,Arjun Mehta,200.8,4,No,No,Pending
+INC-0410,100,Incident Response Team,Wei Zhang,4.19,48,Yes,No,Pending
+INC-0411,479,External Vendor,Neha Verma,31.9,24,Yes,Yes,Not Required
+INC-0412,311,Incident Response Team,Pratik Chandra,70.21,12,No,No,Completed
+INC-0413,414,SOC Tier 1,Neha Verma,16.41,48,Yes,Yes,Pending
+INC-0414,667,Incident Response Team,Pratik Chandra,140.22,12,No,Yes,Not Required
+INC-0415,600,SOC Tier 2,Wei Zhang,16.51,48,Yes,Yes,Completed
+INC-0416,693,SOC Tier 1,Wei Zhang,248.37,4,No,Yes,Completed
+INC-0417,70,SOC Tier 2,Neha Verma,1.0,48,Yes,No,Completed
+INC-0418,519,SOC Tier 2,Sara Fernandez,150.22,4,No,No,Not Required
+INC-0419,699,SOC Tier 1,Arjun Mehta,31.22,12,Yes,Yes,Not Required
+INC-0420,675,External Vendor,Liam O'Connor,121.14,12,No,No,Not Required
+INC-0421,104,SOC Tier 1,Wei Zhang,116.16,12,No,No,Pending
+INC-0422,153,Incident Response Team,Pratik Chandra,100.02,12,No,No,Completed
+INC-0423,365,SOC Tier 2,Priya Nair,110.39,4,No,Yes,Pending
+INC-0424,539,Incident Response Team,Wei Zhang,133.78,4,No,Yes,Pending
+INC-0425,676,External Vendor,Wei Zhang,30.79,24,Yes,Yes,Not Required
+INC-0426,521,Incident Response Team,Tom Becker,18.83,48,Yes,Yes,Completed
+INC-0427,32,External Vendor,Priya Nair,20.6,48,Yes,Yes,Not Required
+INC-0428,244,External Vendor,Neha Verma,125.59,12,No,Yes,Not Required
+INC-0429,258,SOC Tier 1,Arjun Mehta,61.58,24,Yes,No,Completed
+INC-0430,717,SOC Tier 2,Liam O'Connor,11.34,48,Yes,No,Pending
+INC-0431,697,SOC Tier 2,Neha Verma,37.29,12,No,Yes,Not Required
+INC-0432,686,External Vendor,Neha Verma,33.93,12,Yes,No,Completed
+INC-0433,700,SOC Tier 2,Wei Zhang,65.95,24,Yes,No,Pending
+INC-0434,635,External Vendor,Neha Verma,21.69,48,Yes,Yes,Completed
+INC-0435,531,Incident Response Team,Pratik Chandra,12.02,24,Yes,Yes,Pending
+INC-0436,259,Incident Response Team,Neha Verma,9.98,48,Yes,Yes,Not Required
+INC-0437,627,SOC Tier 1,Wei Zhang,31.15,24,Yes,No,Not Required
+INC-0438,32,SOC Tier 1,Arjun Mehta,43.28,12,No,Yes,Not Required
+INC-0439,339,SOC Tier 1,Pratik Chandra,22.26,48,Yes,No,Completed
+INC-0440,428,SOC Tier 2,Liam O'Connor,14.76,48,Yes,Yes,Completed
+INC-0441,38,SOC Tier 2,Pratik Chandra,12.42,48,Yes,Yes,Completed
+INC-0442,202,External Vendor,Pratik Chandra,13.29,48,Yes,No,Pending
+INC-0443,714,SOC Tier 1,Priya Nair,3.88,48,Yes,No,Completed
+INC-0444,353,SOC Tier 2,Tom Becker,7.94,24,Yes,Yes,Completed
+INC-0445,257,SOC Tier 1,Priya Nair,9.21,24,Yes,No,Not Required
+INC-0446,672,SOC Tier 1,Neha Verma,32.24,12,Yes,Yes,Pending
+INC-0447,558,SOC Tier 2,Wei Zhang,138.89,12,No,No,Pending
+INC-0448,566,SOC Tier 1,Pratik Chandra,7.73,48,Yes,No,Pending
+INC-0449,638,SOC Tier 2,Liam O'Connor,154.28,12,No,Yes,Completed
+INC-0450,383,External Vendor,Wei Zhang,57.58,24,Yes,Yes,Completed
+INC-0451,512,SOC Tier 1,Pratik Chandra,103.77,12,No,No,Not Required
+INC-0452,395,SOC Tier 2,Tom Becker,62.67,24,Yes,Yes,Not Required
+INC-0453,443,SOC Tier 1,Priya Nair,16.88,12,Yes,No,Not Required
+INC-0454,223,External Vendor,Pratik Chandra,141.36,12,No,Yes,Not Required
+INC-0455,399,External Vendor,Tom Becker,22.91,48,Yes,No,Completed
+INC-0456,392,Incident Response Team,Liam O'Connor,11.75,48,Yes,Yes,Completed
+INC-0457,557,Incident Response Team,Liam O'Connor,7.8,48,Yes,Yes,Completed
+INC-0458,316,External Vendor,Pratik Chandra,53.26,12,No,No,Completed
+INC-0459,479,External Vendor,Pratik Chandra,111.49,12,No,Yes,Pending
+INC-0460,626,Incident Response Team,Liam O'Connor,80.71,12,No,No,Completed
+INC-0461,234,SOC Tier 1,Pratik Chandra,15.5,48,Yes,Yes,Not Required
+INC-0462,520,SOC Tier 1,Liam O'Connor,43.43,24,Yes,No,Completed
+INC-0463,696,SOC Tier 2,Priya Nair,20.43,48,Yes,Yes,Completed
+INC-0464,521,Incident Response Team,Tom Becker,48.97,12,No,Yes,Not Required
+INC-0465,438,Incident Response Team,Tom Becker,62.94,12,No,No,Pending
+INC-0466,303,SOC Tier 1,Neha Verma,314.26,4,No,Yes,Pending
+INC-0467,525,SOC Tier 2,Tom Becker,134.22,12,No,Yes,Not Required
+INC-0468,155,SOC Tier 2,Tom Becker,9.77,48,Yes,Yes,Not Required
+INC-0469,54,SOC Tier 2,Liam O'Connor,48.83,24,Yes,Yes,Pending
+INC-0470,250,SOC Tier 1,Sara Fernandez,122.22,4,No,No,Not Required
+INC-0471,421,External Vendor,Sara Fernandez,9.32,48,Yes,No,Pending
+INC-0472,237,External Vendor,Arjun Mehta,14.09,48,Yes,No,Pending
+INC-0473,351,External Vendor,Sara Fernandez,9.54,24,Yes,Yes,Pending
+INC-0474,17,External Vendor,Neha Verma,32.47,24,Yes,Yes,Completed
+INC-0475,443,External Vendor,Tom Becker,23.39,12,Yes,No,Completed
+INC-0476,413,Incident Response Team,Neha Verma,17.03,48,Yes,Yes,Completed
+INC-0477,365,External Vendor,Liam O'Connor,110.41,12,No,No,Not Required
+INC-0478,139,SOC Tier 1,Arjun Mehta,17.87,48,Yes,Yes,Not Required
+INC-0479,609,Incident Response Team,Neha Verma,9.51,48,Yes,Yes,Pending
+INC-0480,507,External Vendor,Liam O'Connor,8.85,48,Yes,No,Pending
+INC-0481,328,SOC Tier 2,Tom Becker,318.86,4,No,No,Not Required
+INC-0482,632,External Vendor,Wei Zhang,8.23,48,Yes,Yes,Completed
+INC-0483,297,SOC Tier 2,Liam O'Connor,106.56,12,No,Yes,Completed
+INC-0484,213,SOC Tier 1,Sara Fernandez,38.59,24,Yes,Yes,Pending
+INC-0485,28,External Vendor,Arjun Mehta,23.16,24,Yes,No,Pending
+INC-0486,114,External Vendor,Liam O'Connor,66.5,24,Yes,Yes,Completed
+INC-0487,287,SOC Tier 2,Neha Verma,67.18,12,No,No,Completed
+INC-0488,521,SOC Tier 1,Priya Nair,8.71,48,Yes,Yes,Pending
+INC-0489,104,SOC Tier 1,Pratik Chandra,22.44,48,Yes,Yes,Completed
+INC-0490,602,SOC Tier 2,Wei Zhang,68.14,24,Yes,Yes,Not Required
+INC-0491,510,SOC Tier 2,Pratik Chandra,148.63,12,No,No,Completed
+INC-0492,504,Incident Response Team,Tom Becker,18.18,24,Yes,Yes,Not Required
+INC-0493,359,SOC Tier 2,Liam O'Connor,12.14,48,Yes,No,Pending
+INC-0494,647,SOC Tier 1,Liam O'Connor,28.28,24,Yes,No,Pending
+INC-0495,335,SOC Tier 1,Priya Nair,322.37,4,No,No,Not Required
+INC-0496,133,External Vendor,Sara Fernandez,18.79,48,Yes,Yes,Pending
+INC-0497,276,Incident Response Team,Liam O'Connor,12.67,48,Yes,No,Pending
+INC-0498,402,External Vendor,Sara Fernandez,19.61,48,Yes,No,Not Required
+INC-0499,48,SOC Tier 2,Neha Verma,31.87,24,Yes,No,Completed
+INC-0500,621,Incident Response Team,Priya Nair,142.31,4,No,Yes,Not Required

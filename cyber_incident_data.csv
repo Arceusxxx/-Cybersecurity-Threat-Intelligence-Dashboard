@@ -1,0 +1,501 @@
+Incident_ID,Date,Attack_Type,Severity,Department,Region,Affected_Systems,Financial_Loss_USD,Status,Reported_By
+INC-0001,2025-10-16,SQL Injection,Low,Sales,Europe,9,292.25,Resolved,Neha Verma
+INC-0002,2025-08-27,Phishing,Medium,IT,Europe,9,7418.17,Resolved,Sara Fernandez
+INC-0003,2025-10-27,Man-in-the-Middle,High,Sales,Latin America,1,74278.99,In Progress,Arjun Mehta
+INC-0004,2025-12-15,SQL Injection,Medium,HR,Europe,2,5029.35,Closed - No Action,Tom Becker
+INC-0005,2024-04-09,Insider Threat,Medium,Operations,North America,7,6826.05,In Progress,Neha Verma
+INC-0006,2025-07-19,Social Engineering,Low,Legal,Middle East,4,262.6,Resolved,Liam O'Connor
+INC-0007,2024-03-22,Ransomware,High,R&D,Asia Pacific,11,76055.95,Resolved,Priya Nair
+INC-0008,2024-12-29,SQL Injection,Low,IT,Middle East,4,680.73,In Progress,Arjun Mehta
+INC-0009,2025-04-18,Credential Stuffing,Medium,Sales,Asia Pacific,4,8984.0,Escalated,Pratik Chandra
+INC-0010,2024-11-19,Ransomware,Medium,Sales,Middle East,8,4832.1,Escalated,Tom Becker
+INC-0011,2025-10-20,SQL Injection,Medium,HR,Europe,10,6850.8,In Progress,Tom Becker
+INC-0012,2025-08-20,Malware,Medium,HR,Middle East,2,8802.04,Resolved,Arjun Mehta
+INC-0013,2025-10-04,Man-in-the-Middle,Low,IT,Latin America,9,1096.51,Resolved,Liam O'Connor
+INC-0014,2025-07-20,Phishing,High,IT,Middle East,22,71339.11,Escalated,Neha Verma
+INC-0015,2024-10-27,Zero-Day Exploit,Medium,Finance,Asia Pacific,9,8857.66,Closed - No Action,Neha Verma
+INC-0016,2025-10-02,Credential Stuffing,Low,Sales,Europe,9,345.39,Resolved,Pratik Chandra
+INC-0017,2025-09-05,Phishing,Low,IT,Asia Pacific,5,948.5,Escalated,Sara Fernandez
+INC-0018,2024-02-29,Social Engineering,Low,IT,North America,9,934.42,In Progress,Arjun Mehta
+INC-0019,2024-05-11,Credential Stuffing,High,HR,Asia Pacific,14,59674.76,Resolved,Sara Fernandez
+INC-0020,2025-12-31,Insider Threat,Low,Customer Support,Middle East,2,423.12,Resolved,Priya Nair
+INC-0021,2024-01-22,Malware,Medium,Sales,North America,4,7679.93,Resolved,Neha Verma
+INC-0022,2024-02-02,Ransomware,High,Sales,Asia Pacific,9,31425.05,In Progress,Wei Zhang
+INC-0023,2024-09-05,Man-in-the-Middle,High,Sales,North America,28,47035.69,Resolved,Tom Becker
+INC-0024,2025-04-23,Phishing,High,IT,North America,7,40429.79,Resolved,Sara Fernandez
+INC-0025,2024-07-15,Zero-Day Exploit,Low,HR,Latin America,2,616.37,Resolved,Wei Zhang
+INC-0026,2025-07-17,Credential Stuffing,Low,Finance,North America,3,963.83,Closed - No Action,Tom Becker
+INC-0027,2025-05-12,Man-in-the-Middle,Medium,Finance,Europe,5,10867.78,Resolved,Wei Zhang
+INC-0028,2024-10-19,Credential Stuffing,Medium,Customer Support,Europe,1,3959.31,Resolved,Pratik Chandra
+INC-0029,2024-11-17,Social Engineering,Low,Customer Support,Middle East,1,678.01,Closed - No Action,Neha Verma
+INC-0030,2024-07-09,Ransomware,Low,Sales,Latin America,4,1001.26,Resolved,Pratik Chandra
+INC-0031,2025-09-26,Social Engineering,Low,Legal,Asia Pacific,4,844.57,Resolved,Liam O'Connor
+INC-0032,2025-02-09,SQL Injection,Low,Customer Support,Asia Pacific,1,1042.16,Closed - No Action,Wei Zhang
+INC-0033,2025-09-28,Ransomware,Critical,IT,Middle East,23,175472.15,Resolved,Neha Verma
+INC-0034,2024-09-07,DDoS,Medium,Customer Support,Middle East,9,7505.1,In Progress,Pratik Chandra
+INC-0035,2025-11-14,SQL Injection,High,IT,Europe,36,80059.31,Resolved,Arjun Mehta
+INC-0036,2024-10-05,Malware,Low,Legal,Europe,9,967.62,In Progress,Wei Zhang
+INC-0037,2024-09-14,Phishing,Critical,IT,Latin America,22,95871.23,Escalated,Arjun Mehta
+INC-0038,2025-10-14,DDoS,Critical,Customer Support,Middle East,8,281926.47,In Progress,Neha Verma
+INC-0039,2025-12-08,Credential Stuffing,Critical,Finance,Asia Pacific,9,133313.76,In Progress,Pratik Chandra
+INC-0040,2024-11-11,Phishing,Medium,Legal,Europe,6,8002.4,In Progress,Tom Becker
+INC-0041,2025-09-27,Malware,High,HR,Europe,22,17784.62,Escalated,Tom Becker
+INC-0042,2025-11-16,Malware,High,Operations,Europe,3,23782.89,Escalated,Wei Zhang
+INC-0043,2024-08-15,Zero-Day Exploit,Low,Legal,Asia Pacific,4,984.19,Escalated,Pratik Chandra
+INC-0044,2025-11-06,Insider Threat,Low,Operations,North America,9,451.21,Closed - No Action,Tom Becker
+INC-0045,2025-11-26,Credential Stuffing,Critical,Legal,North America,12,429344.22,Resolved,Liam O'Connor
+INC-0046,2024-02-09,Man-in-the-Middle,Low,Legal,Asia Pacific,2,1085.81,Resolved,Tom Becker
+INC-0047,2025-08-13,Phishing,Low,R&D,North America,4,925.86,Resolved,Priya Nair
+INC-0048,2025-03-17,Insider Threat,Low,Legal,North America,5,470.29,In Progress,Tom Becker
+INC-0049,2024-11-30,SQL Injection,Medium,HR,Europe,3,10463.27,Resolved,Liam O'Connor
+INC-0050,2025-02-19,Phishing,Medium,Operations,Asia Pacific,10,9071.83,Resolved,Priya Nair
+INC-0051,2025-04-21,Malware,Medium,Customer Support,Europe,10,4554.08,In Progress,Priya Nair
+INC-0052,2024-04-05,Malware,High,Operations,Europe,3,26609.49,Escalated,Sara Fernandez
+INC-0053,2025-05-01,Ransomware,Medium,Customer Support,Latin America,7,7181.04,Escalated,Wei Zhang
+INC-0054,2025-02-13,Phishing,Low,IT,Latin America,9,923.7,Resolved,Wei Zhang
+INC-0055,2024-02-21,Ransomware,Medium,Customer Support,Europe,9,8008.2,Escalated,Priya Nair
+INC-0056,2025-03-29,Credential Stuffing,Medium,R&D,Middle East,8,3432.42,Resolved,Wei Zhang
+INC-0057,2024-09-22,SQL Injection,High,Customer Support,Europe,19,21578.8,Resolved,Sara Fernandez
+INC-0058,2024-10-05,Credential Stuffing,Low,IT,Europe,3,544.73,Resolved,Sara Fernandez
+INC-0059,2024-03-06,Insider Threat,Medium,Customer Support,Latin America,7,9496.02,Resolved,Pratik Chandra
+INC-0060,2025-08-12,Phishing,Medium,Legal,Asia Pacific,7,9681.03,Escalated,Sara Fernandez
+INC-0061,2025-05-14,Man-in-the-Middle,Low,Customer Support,North America,7,801.99,Resolved,Arjun Mehta
+INC-0062,2025-04-23,Social Engineering,Critical,Finance,Latin America,6,318679.91,In Progress,Tom Becker
+INC-0063,2024-05-18,DDoS,High,Finance,Asia Pacific,21,31239.54,Resolved,Priya Nair
+INC-0064,2025-01-23,Man-in-the-Middle,Low,Operations,North America,1,874.12,Resolved,Priya Nair
+INC-0065,2024-08-17,Phishing,High,Finance,Europe,10,17467.36,Resolved,Sara Fernandez
+INC-0066,2024-05-09,Ransomware,Medium,Sales,Latin America,3,8902.08,In Progress,Neha Verma
+INC-0067,2024-06-16,Ransomware,Critical,Finance,Asia Pacific,25,406889.41,In Progress,Tom Becker
+INC-0068,2024-07-22,Malware,Low,IT,Asia Pacific,2,740.37,Escalated,Pratik Chandra
+INC-0069,2024-12-21,Insider Threat,Medium,IT,Middle East,7,2113.87,In Progress,Wei Zhang
+INC-0070,2024-04-18,Insider Threat,Medium,Customer Support,Europe,5,8604.16,Resolved,Wei Zhang
+INC-0071,2025-04-21,Social Engineering,Medium,Operations,Asia Pacific,2,9476.58,Escalated,Liam O'Connor
+INC-0072,2025-04-06,Zero-Day Exploit,Low,R&D,Asia Pacific,3,965.86,Resolved,Wei Zhang
+INC-0073,2024-08-05,SQL Injection,Medium,Legal,Asia Pacific,5,8310.65,Escalated,Pratik Chandra
+INC-0074,2025-06-13,Ransomware,Critical,Sales,Latin America,45,352939.28,Resolved,Wei Zhang
+INC-0075,2025-10-23,Zero-Day Exploit,High,Finance,North America,16,45116.88,Resolved,Liam O'Connor
+INC-0076,2025-11-10,Zero-Day Exploit,Medium,Legal,Latin America,6,6953.5,Closed - No Action,Wei Zhang
+INC-0077,2024-10-04,Malware,Low,IT,Europe,3,868.59,Resolved,Sara Fernandez
+INC-0078,2024-08-09,SQL Injection,High,Operations,North America,24,37329.75,Escalated,Arjun Mehta
+INC-0079,2024-11-05,Credential Stuffing,Low,HR,Asia Pacific,5,249.07,Resolved,Arjun Mehta
+INC-0080,2025-10-15,Zero-Day Exploit,High,IT,North America,29,49796.58,In Progress,Priya Nair
+INC-0081,2024-07-07,SQL Injection,Critical,Customer Support,North America,5,224254.68,Escalated,Pratik Chandra
+INC-0082,2024-06-04,Social Engineering,Low,Operations,North America,7,306.61,Closed - No Action,Sara Fernandez
+INC-0083,2025-06-19,Zero-Day Exploit,Medium,Operations,Middle East,10,4748.42,Closed - No Action,Pratik Chandra
+INC-0084,2025-09-16,Ransomware,Critical,Sales,Europe,16,109227.49,Resolved,Arjun Mehta
+INC-0085,2025-07-19,Phishing,Low,R&D,Latin America,1,622.92,In Progress,Sara Fernandez
+INC-0086,2024-10-22,Zero-Day Exploit,High,IT,Europe,41,72723.62,Closed - No Action,Sara Fernandez
+INC-0087,2025-03-11,Malware,Low,HR,Asia Pacific,3,264.27,Escalated,Liam O'Connor
+INC-0088,2025-09-01,Social Engineering,High,Operations,Latin America,45,65584.82,Resolved,Tom Becker
+INC-0089,2024-10-05,Zero-Day Exploit,Medium,Customer Support,North America,6,10004.81,In Progress,Liam O'Connor
+INC-0090,2024-01-27,Social Engineering,Low,Finance,Asia Pacific,3,886.8,In Progress,Wei Zhang
+INC-0091,2025-06-15,SQL Injection,High,HR,Middle East,6,74625.64,Resolved,Wei Zhang
+INC-0092,2024-12-22,Insider Threat,Medium,IT,Europe,5,8243.06,Resolved,Tom Becker
+INC-0093,2025-07-17,Ransomware,Low,Legal,Asia Pacific,7,1073.17,Resolved,Pratik Chandra
+INC-0094,2025-11-04,Zero-Day Exploit,High,R&D,North America,32,42048.11,Resolved,Wei Zhang
+INC-0095,2024-02-22,Credential Stuffing,Low,HR,Asia Pacific,2,828.43,Resolved,Pratik Chandra
+INC-0096,2025-10-07,Malware,Medium,HR,Asia Pacific,2,6970.26,In Progress,Sara Fernandez
+INC-0097,2024-04-26,Ransomware,Medium,HR,Latin America,5,4626.75,Closed - No Action,Tom Becker
+INC-0098,2025-05-09,Malware,Critical,Customer Support,Middle East,39,148619.73,Resolved,Arjun Mehta
+INC-0099,2024-03-12,Man-in-the-Middle,Low,Legal,Middle East,5,202.31,Resolved,Wei Zhang
+INC-0100,2024-06-01,Zero-Day Exploit,Medium,Legal,Asia Pacific,8,6890.87,In Progress,Priya Nair
+INC-0101,2024-07-12,Malware,Critical,R&D,Europe,21,227879.03,Escalated,Wei Zhang
+INC-0102,2025-12-23,Man-in-the-Middle,Critical,R&D,Europe,33,93327.06,Resolved,Priya Nair
+INC-0103,2024-04-12,Zero-Day Exploit,Critical,IT,Middle East,10,85525.14,Closed - No Action,Tom Becker
+INC-0104,2025-11-01,Ransomware,Critical,Customer Support,Asia Pacific,42,329373.66,Resolved,Neha Verma
+INC-0105,2024-12-02,Credential Stuffing,High,R&D,Asia Pacific,32,79895.59,In Progress,Pratik Chandra
+INC-0106,2025-09-24,SQL Injection,Low,Sales,North America,2,288.6,Resolved,Wei Zhang
+INC-0107,2024-06-19,Phishing,High,Finance,Asia Pacific,24,37122.48,Escalated,Tom Becker
+INC-0108,2024-05-29,Man-in-the-Middle,Low,HR,Europe,7,748.54,Resolved,Sara Fernandez
+INC-0109,2025-05-24,DDoS,Critical,Sales,Latin America,43,245445.38,In Progress,Pratik Chandra
+INC-0110,2025-04-21,Credential Stuffing,Critical,HR,North America,38,204403.62,Resolved,Liam O'Connor
+INC-0111,2025-10-16,SQL Injection,Critical,Customer Support,Asia Pacific,31,218489.57,Resolved,Neha Verma
+INC-0112,2024-08-30,Insider Threat,Medium,Operations,Asia Pacific,7,9470.34,Resolved,Liam O'Connor
+INC-0113,2024-01-09,Phishing,Medium,Customer Support,Asia Pacific,6,4071.07,Escalated,Sara Fernandez
+INC-0114,2025-10-13,SQL Injection,Low,HR,North America,5,781.71,Closed - No Action,Wei Zhang
+INC-0115,2024-02-04,DDoS,Medium,IT,Asia Pacific,4,5739.53,Resolved,Arjun Mehta
+INC-0116,2025-07-06,Insider Threat,Critical,Operations,Europe,31,376888.33,Resolved,Liam O'Connor
+INC-0117,2024-12-12,Zero-Day Exploit,High,IT,Europe,44,32244.26,Escalated,Tom Becker
+INC-0118,2025-07-24,Man-in-the-Middle,Medium,Finance,Asia Pacific,5,6093.07,Resolved,Tom Becker
+INC-0119,2025-10-15,Ransomware,Critical,Sales,Latin America,36,398324.54,Resolved,Priya Nair
+INC-0120,2025-09-16,Ransomware,Low,Customer Support,Asia Pacific,1,305.01,In Progress,Pratik Chandra
+INC-0121,2024-11-07,Ransomware,Critical,IT,Europe,30,128839.06,Escalated,Priya Nair
+INC-0122,2025-11-17,Credential Stuffing,Critical,R&D,Middle East,27,135628.24,In Progress,Neha Verma
+INC-0123,2025-05-16,SQL Injection,Medium,Finance,Asia Pacific,4,6002.26,Resolved,Priya Nair
+INC-0124,2024-04-11,Insider Threat,Critical,Legal,North America,8,148331.08,Resolved,Wei Zhang
+INC-0125,2024-04-03,Social Engineering,High,Finance,North America,9,33536.96,Escalated,Sara Fernandez
+INC-0126,2024-03-11,Credential Stuffing,High,Sales,Middle East,22,78618.07,Resolved,Arjun Mehta
+INC-0127,2025-09-02,DDoS,Low,HR,Middle East,1,357.05,Resolved,Arjun Mehta
+INC-0128,2024-01-16,Malware,Medium,Legal,North America,7,2471.59,Resolved,Neha Verma
+INC-0129,2024-03-06,Insider Threat,Medium,IT,Latin America,1,10508.74,Resolved,Liam O'Connor
+INC-0130,2025-04-14,Phishing,Medium,Finance,Latin America,2,5836.46,Escalated,Wei Zhang
+INC-0131,2025-12-30,Ransomware,Critical,IT,Asia Pacific,18,103645.6,In Progress,Priya Nair
+INC-0132,2025-01-25,Credential Stuffing,Critical,Operations,Latin America,45,234871.76,Resolved,Neha Verma
+INC-0133,2025-11-01,Credential Stuffing,High,Sales,Latin America,22,32451.54,Resolved,Wei Zhang
+INC-0134,2025-02-12,Ransomware,Medium,Legal,Latin America,3,4294.01,Resolved,Wei Zhang
+INC-0135,2024-03-09,Ransomware,Low,IT,Latin America,3,864.92,Resolved,Pratik Chandra
+INC-0136,2025-08-23,Credential Stuffing,Critical,Legal,North America,28,394498.65,Resolved,Pratik Chandra
+INC-0137,2024-10-21,Insider Threat,Medium,IT,Middle East,8,3392.57,Resolved,Sara Fernandez
+INC-0138,2024-04-20,Credential Stuffing,Medium,Legal,North America,7,7166.9,Escalated,Pratik Chandra
+INC-0139,2025-09-15,SQL Injection,Critical,Finance,Europe,22,354467.43,Resolved,Priya Nair
+INC-0140,2024-01-07,DDoS,Low,R&D,North America,1,769.85,Resolved,Neha Verma
+INC-0141,2025-06-27,Man-in-the-Middle,Low,Customer Support,Asia Pacific,6,480.47,Resolved,Neha Verma
+INC-0142,2024-02-23,Social Engineering,Low,Finance,North America,8,795.74,Resolved,Wei Zhang
+INC-0143,2025-02-28,Credential Stuffing,Low,IT,Asia Pacific,10,454.92,Resolved,Wei Zhang
+INC-0144,2025-06-23,Phishing,High,Sales,Latin America,14,19944.3,Closed - No Action,Liam O'Connor
+INC-0145,2024-08-04,SQL Injection,High,Operations,Asia Pacific,28,51811.74,Resolved,Arjun Mehta
+INC-0146,2024-05-12,Malware,Medium,Legal,North America,7,8678.37,Resolved,Pratik Chandra
+INC-0147,2025-04-15,Insider Threat,Critical,R&D,Middle East,19,310451.0,Resolved,Neha Verma
+INC-0148,2025-02-18,Insider Threat,Low,HR,Middle East,6,820.65,Resolved,Neha Verma
+INC-0149,2025-03-23,Malware,High,R&D,Middle East,20,21662.59,Resolved,Priya Nair
+INC-0150,2024-08-14,DDoS,Low,IT,Middle East,4,677.54,In Progress,Priya Nair
+INC-0151,2024-12-25,DDoS,High,Sales,North America,39,30203.57,Resolved,Arjun Mehta
+INC-0152,2025-11-02,Zero-Day Exploit,Low,Customer Support,Middle East,10,604.01,Escalated,Priya Nair
+INC-0153,2025-10-04,Zero-Day Exploit,Low,IT,Latin America,5,472.54,Resolved,Pratik Chandra
+INC-0154,2024-12-26,SQL Injection,Medium,Customer Support,Latin America,5,5318.64,Resolved,Neha Verma
+INC-0155,2025-10-22,Ransomware,High,R&D,Latin America,3,84704.67,In Progress,Wei Zhang
+INC-0156,2025-08-08,Insider Threat,High,Customer Support,Middle East,7,20454.91,Resolved,Priya Nair
+INC-0157,2024-03-27,DDoS,Medium,Finance,Europe,9,10918.87,In Progress,Arjun Mehta
+INC-0158,2025-01-07,SQL Injection,Medium,R&D,Latin America,1,8110.08,Escalated,Priya Nair
+INC-0159,2024-03-08,Credential Stuffing,Low,R&D,Asia Pacific,10,966.41,Resolved,Arjun Mehta
+INC-0160,2024-12-07,DDoS,Low,Legal,Asia Pacific,7,828.63,Closed - No Action,Arjun Mehta
+INC-0161,2025-09-01,Ransomware,High,Operations,Middle East,9,72999.66,Resolved,Neha Verma
+INC-0162,2025-10-23,Credential Stuffing,High,Legal,North America,14,28978.93,Resolved,Priya Nair
+INC-0163,2025-05-12,DDoS,Low,HR,North America,9,909.31,Resolved,Pratik Chandra
+INC-0164,2025-11-08,Social Engineering,Low,HR,Middle East,10,346.02,Resolved,Arjun Mehta
+INC-0165,2025-03-24,Insider Threat,Low,Sales,Latin America,8,877.15,In Progress,Sara Fernandez
+INC-0166,2025-06-30,Zero-Day Exploit,Low,Sales,Asia Pacific,8,713.38,In Progress,Wei Zhang
+INC-0167,2024-10-15,Credential Stuffing,High,R&D,Europe,9,73690.66,Escalated,Liam O'Connor
+INC-0168,2024-02-23,Insider Threat,Medium,IT,Middle East,3,4565.57,Escalated,Liam O'Connor
+INC-0169,2025-04-05,DDoS,Critical,R&D,North America,29,159933.68,Closed - No Action,Priya Nair
+INC-0170,2024-01-28,Man-in-the-Middle,Medium,Legal,Europe,4,2734.45,Resolved,Pratik Chandra
+INC-0171,2024-11-22,Insider Threat,Critical,HR,Europe,31,410262.62,Resolved,Arjun Mehta
+INC-0172,2025-12-23,Social Engineering,Medium,Finance,North America,3,3940.89,Resolved,Tom Becker
+INC-0173,2024-04-23,Malware,High,Operations,North America,40,46227.44,Resolved,Wei Zhang
+INC-0174,2024-03-05,Zero-Day Exploit,Low,Finance,Middle East,5,846.69,In Progress,Tom Becker
+INC-0175,2024-01-02,Malware,Medium,R&D,Europe,6,2770.53,In Progress,Neha Verma
+INC-0176,2025-06-22,Credential Stuffing,Medium,Finance,Latin America,7,2391.81,Escalated,Priya Nair
+INC-0177,2024-09-16,Insider Threat,High,IT,Asia Pacific,7,63311.52,Resolved,Priya Nair
+INC-0178,2024-05-16,Credential Stuffing,Low,Legal,Europe,8,816.21,Escalated,Arjun Mehta
+INC-0179,2024-05-18,Zero-Day Exploit,Low,Finance,Asia Pacific,1,912.0,Resolved,Priya Nair
+INC-0180,2024-11-13,Credential Stuffing,Medium,Customer Support,Asia Pacific,5,7822.1,Resolved,Priya Nair
+INC-0181,2024-02-18,Insider Threat,High,Operations,North America,26,47460.5,Escalated,Wei Zhang
+INC-0182,2025-01-30,DDoS,Low,Customer Support,Latin America,5,917.56,Resolved,Neha Verma
+INC-0183,2025-03-10,Social Engineering,Low,HR,Middle East,6,292.34,Resolved,Liam O'Connor
+INC-0184,2024-11-09,Man-in-the-Middle,Medium,HR,Latin America,6,2381.2,Resolved,Tom Becker
+INC-0185,2024-10-08,Phishing,Medium,IT,Latin America,3,9209.86,Resolved,Pratik Chandra
+INC-0186,2024-05-26,Zero-Day Exploit,High,Finance,Europe,24,72053.11,Resolved,Priya Nair
+INC-0187,2025-01-27,Phishing,Critical,HR,Latin America,5,213924.82,Closed - No Action,Arjun Mehta
+INC-0188,2025-06-26,Insider Threat,Medium,Operations,Europe,3,2233.22,Closed - No Action,Wei Zhang
+INC-0189,2025-06-14,Credential Stuffing,Medium,IT,Asia Pacific,4,8336.34,Escalated,Liam O'Connor
+INC-0190,2025-12-11,Zero-Day Exploit,Critical,Sales,North America,12,106658.73,Resolved,Wei Zhang
+INC-0191,2024-03-30,Insider Threat,High,Legal,North America,20,36906.08,Resolved,Arjun Mehta
+INC-0192,2025-12-29,DDoS,High,Legal,Middle East,9,86929.54,Resolved,Sara Fernandez
+INC-0193,2025-05-20,Credential Stuffing,Low,Legal,Latin America,10,696.48,Escalated,Neha Verma
+INC-0194,2024-03-08,Zero-Day Exploit,Low,R&D,Latin America,6,266.38,Escalated,Neha Verma
+INC-0195,2025-04-05,Credential Stuffing,Medium,Legal,Europe,10,9022.37,Escalated,Arjun Mehta
+INC-0196,2024-05-12,Phishing,Medium,IT,Middle East,6,3481.91,Resolved,Sara Fernandez
+INC-0197,2024-12-20,Credential Stuffing,Critical,Operations,North America,36,308620.55,Resolved,Liam O'Connor
+INC-0198,2024-05-08,Social Engineering,Medium,IT,Middle East,10,7326.28,In Progress,Arjun Mehta
+INC-0199,2024-06-24,Social Engineering,High,Legal,Middle East,6,78192.25,Resolved,Pratik Chandra
+INC-0200,2025-10-18,SQL Injection,High,Sales,Middle East,32,62007.37,Resolved,Liam O'Connor
+INC-0201,2025-10-19,Zero-Day Exploit,Critical,Sales,Latin America,4,106270.29,Resolved,Arjun Mehta
+INC-0202,2025-03-26,Zero-Day Exploit,Medium,Sales,Asia Pacific,6,4813.24,In Progress,Priya Nair
+INC-0203,2025-02-12,Insider Threat,Low,IT,Asia Pacific,8,310.27,Resolved,Sara Fernandez
+INC-0204,2024-05-24,SQL Injection,Low,R&D,Middle East,3,1066.42,Resolved,Priya Nair
+INC-0205,2025-08-14,Malware,High,HR,Latin America,20,49610.69,Closed - No Action,Wei Zhang
+INC-0206,2024-01-24,Man-in-the-Middle,Low,Customer Support,Europe,1,517.61,Resolved,Liam O'Connor
+INC-0207,2025-05-21,Zero-Day Exploit,Medium,Operations,Middle East,3,2967.47,Resolved,Liam O'Connor
+INC-0208,2025-01-09,Insider Threat,High,Finance,Latin America,24,56450.81,Resolved,Liam O'Connor
+INC-0209,2024-03-16,Zero-Day Exploit,Medium,Operations,Middle East,2,3069.3,In Progress,Tom Becker
+INC-0210,2025-01-17,Insider Threat,High,Legal,Europe,33,52656.82,Resolved,Pratik Chandra
+INC-0211,2024-02-16,Insider Threat,Low,Customer Support,Middle East,9,745.63,Resolved,Arjun Mehta
+INC-0212,2024-12-01,Insider Threat,Critical,HR,Latin America,20,346154.97,Closed - No Action,Priya Nair
+INC-0213,2025-06-03,Credential Stuffing,High,Customer Support,Middle East,24,74733.92,Resolved,Priya Nair
+INC-0214,2025-11-20,Man-in-the-Middle,Low,Operations,North America,10,438.98,In Progress,Sara Fernandez
+INC-0215,2024-02-22,DDoS,Medium,R&D,Europe,10,4179.77,Escalated,Neha Verma
+INC-0216,2024-07-14,Insider Threat,Low,R&D,Europe,9,383.5,Resolved,Wei Zhang
+INC-0217,2024-03-04,Credential Stuffing,High,Sales,Middle East,34,63680.33,Resolved,Tom Becker
+INC-0218,2024-11-17,Zero-Day Exploit,Critical,Legal,Middle East,44,357916.32,Resolved,Liam O'Connor
+INC-0219,2025-09-16,Malware,Medium,Operations,Middle East,5,10473.37,Resolved,Liam O'Connor
+INC-0220,2025-12-22,Zero-Day Exploit,Low,Legal,Latin America,5,1040.33,Resolved,Liam O'Connor
+INC-0221,2024-05-04,Credential Stuffing,Medium,R&D,Latin America,3,10591.48,Escalated,Liam O'Connor
+INC-0222,2024-02-13,Ransomware,Low,Legal,Latin America,4,872.6,In Progress,Sara Fernandez
+INC-0223,2025-07-05,Credential Stuffing,Low,Operations,Europe,4,866.8,Resolved,Sara Fernandez
+INC-0224,2024-02-21,Credential Stuffing,High,Sales,Europe,31,45757.7,Resolved,Neha Verma
+INC-0225,2025-11-28,Phishing,High,HR,Latin America,31,79406.62,In Progress,Wei Zhang
+INC-0226,2025-10-28,SQL Injection,Low,Legal,Asia Pacific,2,1017.14,In Progress,Sara Fernandez
+INC-0227,2025-07-01,Phishing,High,HR,Latin America,3,28656.79,Escalated,Tom Becker
+INC-0228,2025-05-22,SQL Injection,Low,Finance,North America,6,742.5,Resolved,Liam O'Connor
+INC-0229,2025-04-10,Credential Stuffing,Critical,Customer Support,Europe,13,248487.48,Escalated,Neha Verma
+INC-0230,2024-12-04,Zero-Day Exploit,Low,Operations,Europe,5,503.4,Resolved,Sara Fernandez
+INC-0231,2024-06-28,Man-in-the-Middle,Medium,R&D,Middle East,2,5607.5,Resolved,Arjun Mehta
+INC-0232,2024-05-23,Malware,Medium,Finance,Asia Pacific,5,6020.62,Resolved,Priya Nair
+INC-0233,2024-11-05,Social Engineering,Medium,Finance,Asia Pacific,1,8234.92,In Progress,Neha Verma
+INC-0234,2025-04-21,Man-in-the-Middle,Low,Operations,North America,6,1046.57,In Progress,Sara Fernandez
+INC-0235,2024-08-12,Zero-Day Exploit,Critical,HR,Latin America,27,298066.02,In Progress,Wei Zhang
+INC-0236,2025-07-04,Malware,High,Sales,Middle East,29,21894.66,Escalated,Priya Nair
+INC-0237,2024-03-20,Ransomware,Critical,Finance,Middle East,35,152776.44,Closed - No Action,Arjun Mehta
+INC-0238,2024-06-17,Credential Stuffing,Low,Customer Support,North America,8,845.23,In Progress,Neha Verma
+INC-0239,2025-06-06,Phishing,Medium,Customer Support,Europe,1,6111.19,Resolved,Wei Zhang
+INC-0240,2025-11-19,Phishing,High,R&D,Asia Pacific,38,69697.92,Escalated,Neha Verma
+INC-0241,2024-02-16,Ransomware,Medium,Finance,North America,5,6248.64,Closed - No Action,Tom Becker
+INC-0242,2024-07-03,Man-in-the-Middle,High,Legal,Latin America,25,82032.29,Resolved,Tom Becker
+INC-0243,2024-03-23,Credential Stuffing,High,HR,Asia Pacific,26,87484.97,Resolved,Arjun Mehta
+INC-0244,2024-08-16,Phishing,High,Operations,Latin America,35,55200.06,In Progress,Tom Becker
+INC-0245,2024-08-23,Insider Threat,Low,HR,Asia Pacific,2,987.69,Resolved,Pratik Chandra
+INC-0246,2025-11-07,Phishing,Medium,Sales,Europe,8,7345.5,Resolved,Pratik Chandra
+INC-0247,2024-09-07,Man-in-the-Middle,High,Customer Support,Europe,4,70315.77,Resolved,Arjun Mehta
+INC-0248,2025-05-30,Malware,Critical,Legal,Middle East,21,322111.48,In Progress,Sara Fernandez
+INC-0249,2024-11-05,Credential Stuffing,Critical,Sales,Latin America,38,101944.75,Resolved,Arjun Mehta
+INC-0250,2025-10-03,Credential Stuffing,High,Customer Support,North America,43,83794.22,Closed - No Action,Tom Becker
+INC-0251,2025-06-21,Man-in-the-Middle,Low,R&D,Europe,9,365.49,Resolved,Wei Zhang
+INC-0252,2024-09-03,SQL Injection,High,HR,Latin America,27,56491.79,Closed - No Action,Arjun Mehta
+INC-0253,2025-02-01,Malware,Low,Legal,North America,2,962.42,Closed - No Action,Sara Fernandez
+INC-0254,2024-02-22,Social Engineering,Low,Finance,North America,9,885.53,Resolved,Sara Fernandez
+INC-0255,2025-05-05,Insider Threat,Low,Operations,North America,2,371.02,Resolved,Wei Zhang
+INC-0256,2024-09-05,Malware,High,R&D,Europe,25,71837.0,In Progress,Wei Zhang
+INC-0257,2025-06-30,SQL Injection,Medium,Operations,Asia Pacific,2,6475.5,Resolved,Wei Zhang
+INC-0258,2024-11-23,Insider Threat,Critical,Legal,Latin America,10,391070.54,Resolved,Pratik Chandra
+INC-0259,2024-09-24,Social Engineering,Medium,R&D,Asia Pacific,7,4968.79,Resolved,Sara Fernandez
+INC-0260,2025-05-26,Insider Threat,Medium,Operations,Latin America,8,7775.25,Closed - No Action,Wei Zhang
+INC-0261,2024-06-21,Insider Threat,High,HR,Europe,35,51158.78,In Progress,Pratik Chandra
+INC-0262,2025-06-20,Ransomware,Low,Finance,North America,4,958.29,Resolved,Neha Verma
+INC-0263,2025-12-25,Malware,Low,Customer Support,Asia Pacific,10,773.96,Resolved,Wei Zhang
+INC-0264,2025-11-06,Phishing,Medium,R&D,North America,9,8499.73,Resolved,Liam O'Connor
+INC-0265,2024-01-18,Man-in-the-Middle,Medium,HR,North America,4,6719.47,Closed - No Action,Sara Fernandez
+INC-0266,2025-09-26,Insider Threat,Medium,Operations,Latin America,8,10633.68,Resolved,Sara Fernandez
+INC-0267,2025-12-14,Ransomware,Low,Finance,North America,8,539.45,Resolved,Pratik Chandra
+INC-0268,2025-10-14,DDoS,Low,IT,Latin America,6,780.42,Escalated,Neha Verma
+INC-0269,2025-06-24,Malware,Critical,Sales,Middle East,5,96762.31,Resolved,Liam O'Connor
+INC-0270,2025-07-10,Phishing,Medium,HR,Asia Pacific,3,3864.42,Resolved,Tom Becker
+INC-0271,2024-03-19,Social Engineering,Low,Sales,Middle East,9,550.24,Escalated,Priya Nair
+INC-0272,2025-01-28,DDoS,High,IT,Middle East,7,40901.88,In Progress,Tom Becker
+INC-0273,2024-08-25,Insider Threat,High,R&D,Asia Pacific,29,35679.55,Resolved,Wei Zhang
+INC-0274,2024-08-21,Man-in-the-Middle,Medium,R&D,Europe,2,7946.05,In Progress,Liam O'Connor
+INC-0275,2024-09-09,Ransomware,High,Operations,Europe,10,72440.1,Resolved,Tom Becker
+INC-0276,2024-11-20,Ransomware,Medium,Finance,Asia Pacific,2,8852.12,Resolved,Arjun Mehta
+INC-0277,2024-03-30,Zero-Day Exploit,Low,R&D,North America,2,518.52,Resolved,Priya Nair
+INC-0278,2025-01-29,Man-in-the-Middle,Low,R&D,North America,4,703.58,In Progress,Arjun Mehta
+INC-0279,2025-12-02,DDoS,Medium,Operations,Asia Pacific,3,3313.41,Resolved,Tom Becker
+INC-0280,2024-10-09,Zero-Day Exploit,Medium,IT,Asia Pacific,8,4219.31,Resolved,Sara Fernandez
+INC-0281,2025-04-13,SQL Injection,Low,Finance,Latin America,6,758.17,Resolved,Wei Zhang
+INC-0282,2024-12-08,Social Engineering,Medium,HR,Asia Pacific,4,10525.51,Resolved,Wei Zhang
+INC-0283,2024-11-17,Man-in-the-Middle,Low,Legal,Asia Pacific,10,769.61,In Progress,Sara Fernandez
+INC-0284,2024-11-29,Man-in-the-Middle,Medium,Legal,North America,9,3798.2,Closed - No Action,Arjun Mehta
+INC-0285,2025-11-29,Phishing,High,Customer Support,Europe,45,36975.85,Resolved,Neha Verma
+INC-0286,2025-02-22,DDoS,High,Operations,Europe,28,27098.31,Resolved,Tom Becker
+INC-0287,2024-03-16,Social Engineering,Medium,Customer Support,Middle East,7,6559.51,Resolved,Pratik Chandra
+INC-0288,2025-01-03,Credential Stuffing,High,IT,North America,23,63347.32,Escalated,Arjun Mehta
+INC-0289,2025-10-24,Social Engineering,Medium,R&D,Asia Pacific,1,5874.1,Closed - No Action,Neha Verma
+INC-0290,2024-09-21,Credential Stuffing,Low,Sales,Latin America,10,616.76,Resolved,Arjun Mehta
+INC-0291,2024-12-19,Zero-Day Exploit,Critical,IT,Asia Pacific,8,426222.03,Resolved,Arjun Mehta
+INC-0292,2024-12-22,Zero-Day Exploit,Low,Sales,Middle East,8,628.55,Resolved,Wei Zhang
+INC-0293,2024-11-22,Phishing,Low,IT,North America,3,783.17,Escalated,Sara Fernandez
+INC-0294,2025-06-12,DDoS,Low,Legal,Middle East,7,615.85,Resolved,Arjun Mehta
+INC-0295,2024-07-09,Man-in-the-Middle,Medium,R&D,North America,8,9947.88,In Progress,Tom Becker
+INC-0296,2025-02-02,Malware,Low,Sales,Asia Pacific,2,927.86,Escalated,Neha Verma
+INC-0297,2025-07-03,Insider Threat,Low,Sales,Latin America,8,803.63,Resolved,Priya Nair
+INC-0298,2025-09-03,Man-in-the-Middle,Medium,IT,Asia Pacific,3,6120.75,Resolved,Liam O'Connor
+INC-0299,2025-09-21,DDoS,Medium,Legal,North America,6,3052.54,Resolved,Arjun Mehta
+INC-0300,2025-06-07,Social Engineering,Medium,HR,Middle East,9,3671.78,Resolved,Arjun Mehta
+INC-0301,2025-07-22,SQL Injection,Low,HR,Europe,1,605.9,Resolved,Priya Nair
+INC-0302,2024-01-10,Malware,Medium,R&D,Middle East,8,6454.73,Resolved,Tom Becker
+INC-0303,2025-12-28,Zero-Day Exploit,High,HR,North America,15,73303.42,In Progress,Liam O'Connor
+INC-0304,2024-02-03,Credential Stuffing,Low,Operations,Europe,8,709.09,Escalated,Neha Verma
+INC-0305,2025-08-09,Credential Stuffing,Low,Legal,Middle East,8,237.45,Escalated,Sara Fernandez
+INC-0306,2025-03-11,Malware,Low,Operations,North America,2,513.72,Resolved,Wei Zhang
+INC-0307,2024-04-30,Malware,High,Sales,Middle East,40,77995.51,In Progress,Tom Becker
+INC-0308,2024-06-18,Malware,Medium,Sales,North America,10,6790.53,In Progress,Arjun Mehta
+INC-0309,2024-11-27,SQL Injection,Critical,Operations,Middle East,44,388886.06,Resolved,Neha Verma
+INC-0310,2024-05-18,Man-in-the-Middle,Critical,Finance,Asia Pacific,9,125679.74,Escalated,Sara Fernandez
+INC-0311,2024-05-29,Malware,High,R&D,Latin America,41,61532.94,Resolved,Tom Becker
+INC-0312,2025-01-19,Ransomware,Medium,R&D,Middle East,6,8252.33,In Progress,Wei Zhang
+INC-0313,2025-05-14,Phishing,Low,IT,Latin America,2,827.56,In Progress,Tom Becker
+INC-0314,2024-08-11,Malware,Critical,Customer Support,Asia Pacific,36,182093.51,Resolved,Arjun Mehta
+INC-0315,2025-08-02,Insider Threat,High,Finance,North America,30,72440.06,Resolved,Pratik Chandra
+INC-0316,2024-05-07,DDoS,Critical,Customer Support,Latin America,13,424891.44,Resolved,Arjun Mehta
+INC-0317,2025-10-27,SQL Injection,Low,IT,Asia Pacific,3,534.66,Resolved,Pratik Chandra
+INC-0318,2025-02-09,Malware,Medium,R&D,North America,8,2009.78,In Progress,Neha Verma
+INC-0319,2024-05-15,Credential Stuffing,Medium,Customer Support,North America,2,5092.17,Resolved,Tom Becker
+INC-0320,2025-12-11,Ransomware,Low,Sales,Latin America,2,925.36,Resolved,Priya Nair
+INC-0321,2025-01-11,DDoS,Critical,R&D,Europe,5,323769.35,In Progress,Pratik Chandra
+INC-0322,2025-09-16,Zero-Day Exploit,High,Legal,Europe,27,26898.94,In Progress,Wei Zhang
+INC-0323,2024-08-10,Ransomware,Low,HR,North America,7,545.63,In Progress,Priya Nair
+INC-0324,2024-05-23,Ransomware,Low,Sales,Middle East,5,849.06,In Progress,Pratik Chandra
+INC-0325,2025-11-05,Malware,Critical,Sales,Latin America,16,99644.89,Resolved,Wei Zhang
+INC-0326,2025-01-30,Zero-Day Exploit,Low,IT,Middle East,6,210.86,Escalated,Priya Nair
+INC-0327,2024-05-15,Social Engineering,Medium,R&D,Asia Pacific,8,3554.93,Resolved,Neha Verma
+INC-0328,2024-01-18,Phishing,Medium,Operations,Europe,7,2544.22,Resolved,Liam O'Connor
+INC-0329,2025-10-05,Man-in-the-Middle,High,R&D,Latin America,40,54632.67,Resolved,Arjun Mehta
+INC-0330,2024-10-11,Ransomware,Low,Sales,Europe,2,551.66,Resolved,Liam O'Connor
+INC-0331,2025-12-16,Malware,Medium,Finance,Europe,8,5910.35,Resolved,Pratik Chandra
+INC-0332,2024-11-12,DDoS,High,IT,North America,11,66507.97,In Progress,Wei Zhang
+INC-0333,2024-12-21,SQL Injection,Medium,HR,Asia Pacific,5,9030.12,Resolved,Neha Verma
+INC-0334,2024-01-31,Man-in-the-Middle,Low,Operations,Middle East,10,841.09,Resolved,Neha Verma
+INC-0335,2025-05-23,Insider Threat,Medium,Finance,Latin America,3,3501.93,Escalated,Liam O'Connor
+INC-0336,2024-04-15,Ransomware,Critical,Sales,Middle East,1,389128.04,Resolved,Sara Fernandez
+INC-0337,2024-02-17,Man-in-the-Middle,Medium,HR,Europe,9,9717.37,Closed - No Action,Tom Becker
+INC-0338,2024-08-17,Man-in-the-Middle,Low,Legal,Asia Pacific,2,714.38,Escalated,Pratik Chandra
+INC-0339,2024-07-02,Credential Stuffing,Low,Finance,Latin America,5,618.58,Resolved,Liam O'Connor
+INC-0340,2024-12-01,Zero-Day Exploit,Low,Finance,Asia Pacific,5,707.43,Resolved,Sara Fernandez
+INC-0341,2025-04-20,Zero-Day Exploit,Medium,Sales,Middle East,1,4206.14,Escalated,Tom Becker
+INC-0342,2024-01-25,Insider Threat,Low,Finance,Asia Pacific,5,791.57,Resolved,Neha Verma
+INC-0343,2024-07-29,Malware,Medium,R&D,Latin America,3,10753.03,Closed - No Action,Liam O'Connor
+INC-0344,2024-04-05,Malware,Low,R&D,Asia Pacific,10,873.11,Resolved,Neha Verma
+INC-0345,2025-06-01,Man-in-the-Middle,Low,IT,Middle East,3,591.48,In Progress,Sara Fernandez
+INC-0346,2024-10-25,Insider Threat,Low,R&D,Asia Pacific,2,444.76,Resolved,Sara Fernandez
+INC-0347,2024-05-19,Social Engineering,High,IT,Europe,21,48368.81,Resolved,Tom Becker
+INC-0348,2024-05-03,Malware,Medium,Customer Support,Asia Pacific,2,9672.34,Resolved,Arjun Mehta
+INC-0349,2025-12-03,Social Engineering,Low,Finance,Europe,2,495.01,Escalated,Sara Fernandez
+INC-0350,2024-12-30,Phishing,Medium,Operations,Asia Pacific,7,3564.81,Escalated,Wei Zhang
+INC-0351,2025-07-23,Malware,High,IT,Latin America,8,73154.3,Resolved,Pratik Chandra
+INC-0352,2024-03-04,Malware,High,HR,Europe,41,42801.26,Escalated,Neha Verma
+INC-0353,2025-08-19,Ransomware,Medium,Finance,North America,3,7813.88,Resolved,Neha Verma
+INC-0354,2024-12-05,Zero-Day Exploit,Low,Finance,Europe,7,589.84,Closed - No Action,Wei Zhang
+INC-0355,2024-01-31,Man-in-the-Middle,Medium,HR,Asia Pacific,5,3684.36,Resolved,Wei Zhang
+INC-0356,2024-06-01,Social Engineering,Low,Sales,Asia Pacific,8,994.5,Resolved,Pratik Chandra
+INC-0357,2024-03-30,DDoS,Low,R&D,Europe,4,917.48,In Progress,Pratik Chandra
+INC-0358,2025-01-26,Insider Threat,High,Customer Support,Middle East,37,40770.46,Escalated,Priya Nair
+INC-0359,2025-02-01,Phishing,Low,Legal,Middle East,5,1006.19,Resolved,Pratik Chandra
+INC-0360,2025-04-28,Social Engineering,Medium,Sales,Europe,5,7911.78,Resolved,Pratik Chandra
+INC-0361,2024-08-12,Man-in-the-Middle,Medium,Legal,Europe,6,7332.68,Resolved,Pratik Chandra
+INC-0362,2025-12-21,Social Engineering,High,HR,Middle East,32,76242.17,Closed - No Action,Liam O'Connor
+INC-0363,2024-06-28,Ransomware,Medium,Finance,Europe,8,2179.35,In Progress,Pratik Chandra
+INC-0364,2024-12-05,Malware,Critical,HR,Asia Pacific,21,410761.08,In Progress,Pratik Chandra
+INC-0365,2024-01-23,DDoS,Low,IT,Middle East,6,1064.5,Escalated,Tom Becker
+INC-0366,2025-08-23,SQL Injection,Low,Legal,Europe,7,859.12,Closed - No Action,Wei Zhang
+INC-0367,2025-10-26,Credential Stuffing,Low,Legal,Europe,7,933.01,In Progress,Liam O'Connor
+INC-0368,2025-12-06,DDoS,Low,Finance,Middle East,10,1094.85,Resolved,Pratik Chandra
+INC-0369,2024-07-05,Social Engineering,Medium,Sales,Middle East,6,6465.67,Resolved,Neha Verma
+INC-0370,2024-08-31,Insider Threat,Low,HR,North America,6,803.02,Escalated,Wei Zhang
+INC-0371,2024-01-12,Malware,Low,IT,Asia Pacific,1,297.23,Resolved,Pratik Chandra
+INC-0372,2025-01-30,Man-in-the-Middle,Medium,HR,Latin America,9,5408.41,Resolved,Tom Becker
+INC-0373,2024-04-13,Social Engineering,High,Sales,Europe,3,73542.01,Resolved,Liam O'Connor
+INC-0374,2024-01-21,Ransomware,Low,IT,Asia Pacific,2,537.91,Resolved,Neha Verma
+INC-0375,2024-12-12,Social Engineering,Medium,Customer Support,North America,10,7882.72,Resolved,Tom Becker
+INC-0376,2024-06-09,Insider Threat,Low,Sales,Europe,9,698.7,Resolved,Liam O'Connor
+INC-0377,2025-11-07,Malware,Low,IT,North America,8,694.7,Resolved,Arjun Mehta
+INC-0378,2024-02-25,Man-in-the-Middle,Medium,IT,Asia Pacific,8,7625.82,Escalated,Sara Fernandez
+INC-0379,2024-04-09,DDoS,Low,Operations,North America,7,303.96,Resolved,Wei Zhang
+INC-0380,2025-05-15,SQL Injection,Critical,IT,Middle East,25,213567.39,Resolved,Priya Nair
+INC-0381,2024-07-10,SQL Injection,Medium,Customer Support,Latin America,10,9533.71,Resolved,Pratik Chandra
+INC-0382,2024-06-03,Ransomware,High,IT,Asia Pacific,38,45807.04,Escalated,Sara Fernandez
+INC-0383,2025-07-20,Man-in-the-Middle,Low,R&D,Middle East,10,1042.73,In Progress,Sara Fernandez
+INC-0384,2025-05-02,Man-in-the-Middle,Low,Finance,Middle East,10,665.14,In Progress,Arjun Mehta
+INC-0385,2024-05-03,Zero-Day Exploit,Critical,HR,Europe,9,371045.86,Closed - No Action,Pratik Chandra
+INC-0386,2025-03-09,Man-in-the-Middle,Low,Sales,Europe,2,432.1,Escalated,Neha Verma
+INC-0387,2025-02-01,Credential Stuffing,Medium,Legal,Asia Pacific,1,10254.46,Resolved,Tom Becker
+INC-0388,2024-04-25,DDoS,Medium,IT,North America,5,2908.91,In Progress,Priya Nair
+INC-0389,2025-02-24,Zero-Day Exploit,Low,Customer Support,North America,10,562.68,Resolved,Tom Becker
+INC-0390,2024-02-09,Insider Threat,Medium,Sales,North America,6,10287.51,In Progress,Pratik Chandra
+INC-0391,2024-12-11,SQL Injection,High,Operations,Asia Pacific,44,77792.9,Escalated,Neha Verma
+INC-0392,2024-08-21,Zero-Day Exploit,Low,Legal,Asia Pacific,2,744.48,In Progress,Sara Fernandez
+INC-0393,2025-03-28,Man-in-the-Middle,Low,Customer Support,Middle East,9,938.92,Escalated,Arjun Mehta
+INC-0394,2024-03-08,Credential Stuffing,Low,R&D,Europe,10,671.86,Escalated,Pratik Chandra
+INC-0395,2024-06-26,Malware,Low,Finance,Europe,6,245.5,Resolved,Sara Fernandez
+INC-0396,2024-10-07,Zero-Day Exploit,Medium,R&D,North America,8,4177.44,In Progress,Wei Zhang
+INC-0397,2024-06-30,Zero-Day Exploit,Critical,Legal,Asia Pacific,45,402017.09,Resolved,Neha Verma
+INC-0398,2024-10-18,Phishing,Low,HR,Middle East,4,392.89,Escalated,Sara Fernandez
+INC-0399,2025-11-24,Man-in-the-Middle,Low,Finance,North America,3,319.08,Resolved,Pratik Chandra
+INC-0400,2024-08-17,SQL Injection,Low,Operations,Latin America,8,966.43,Escalated,Liam O'Connor
+INC-0401,2024-08-11,Credential Stuffing,Medium,R&D,Middle East,6,6603.62,Resolved,Liam O'Connor
+INC-0402,2024-11-01,Zero-Day Exploit,High,IT,Asia Pacific,18,62122.82,Closed - No Action,Liam O'Connor
+INC-0403,2025-11-02,SQL Injection,High,Sales,Europe,4,33301.75,Resolved,Tom Becker
+INC-0404,2025-11-07,DDoS,Low,Finance,Latin America,7,433.48,Closed - No Action,Tom Becker
+INC-0405,2025-02-01,Social Engineering,High,Sales,Asia Pacific,35,32010.15,In Progress,Wei Zhang
+INC-0406,2025-11-18,SQL Injection,Medium,HR,Middle East,3,2878.43,Resolved,Liam O'Connor
+INC-0407,2025-07-26,DDoS,High,Legal,North America,20,32079.61,Resolved,Tom Becker
+INC-0408,2024-12-05,Social Engineering,Medium,Operations,Latin America,10,6234.83,Escalated,Neha Verma
+INC-0409,2025-04-28,Credential Stuffing,Critical,IT,Latin America,10,228718.61,Resolved,Arjun Mehta
+INC-0410,2024-07-24,Social Engineering,Low,Customer Support,Europe,2,844.1,Resolved,Wei Zhang
+INC-0411,2024-12-06,DDoS,Medium,Legal,North America,3,4461.75,Resolved,Arjun Mehta
+INC-0412,2025-05-16,Ransomware,High,HR,Middle East,28,46917.5,Resolved,Wei Zhang
+INC-0413,2025-01-27,Credential Stuffing,Low,Sales,Asia Pacific,9,1002.81,Closed - No Action,Sara Fernandez
+INC-0414,2024-01-19,Malware,High,Sales,Asia Pacific,33,23394.99,Resolved,Liam O'Connor
+INC-0415,2024-06-20,Phishing,Low,Operations,Asia Pacific,9,668.26,Resolved,Priya Nair
+INC-0416,2025-03-20,DDoS,Critical,Legal,Latin America,26,147833.37,Resolved,Pratik Chandra
+INC-0417,2024-08-21,DDoS,Low,Sales,North America,6,352.09,In Progress,Pratik Chandra
+INC-0418,2025-01-19,SQL Injection,Critical,Finance,Middle East,42,318309.17,Closed - No Action,Pratik Chandra
+INC-0419,2024-02-19,Man-in-the-Middle,High,Customer Support,Latin America,45,34197.16,Resolved,Arjun Mehta
+INC-0420,2024-07-29,Phishing,High,Operations,Latin America,18,63698.77,In Progress,Arjun Mehta
+INC-0421,2025-03-04,Ransomware,High,IT,Asia Pacific,13,23650.99,Resolved,Sara Fernandez
+INC-0422,2024-09-26,Malware,High,Legal,Latin America,32,18837.21,Resolved,Sara Fernandez
+INC-0423,2025-12-05,Insider Threat,Critical,Sales,North America,8,112041.02,Resolved,Wei Zhang
+INC-0424,2024-06-01,Credential Stuffing,Critical,IT,North America,30,311961.24,Closed - No Action,Liam O'Connor
+INC-0425,2024-09-27,Ransomware,Medium,HR,North America,6,5241.93,Escalated,Tom Becker
+INC-0426,2024-04-28,Phishing,Low,Finance,Europe,6,353.46,In Progress,Wei Zhang
+INC-0427,2025-09-28,Ransomware,Low,Legal,Asia Pacific,8,560.7,Resolved,Liam O'Connor
+INC-0428,2025-01-29,Zero-Day Exploit,High,R&D,Europe,4,66124.23,Resolved,Arjun Mehta
+INC-0429,2024-04-16,Social Engineering,Medium,Customer Support,Middle East,7,3631.35,In Progress,Priya Nair
+INC-0430,2025-09-18,DDoS,Low,Customer Support,Latin America,1,570.16,Resolved,Neha Verma
+INC-0431,2024-09-24,Phishing,High,Sales,Asia Pacific,40,65553.4,Resolved,Neha Verma
+INC-0432,2025-03-19,Malware,High,Customer Support,Asia Pacific,10,62181.12,In Progress,Pratik Chandra
+INC-0433,2024-01-12,DDoS,Medium,Customer Support,Latin America,8,2673.79,Escalated,Priya Nair
+INC-0434,2024-09-03,SQL Injection,Low,Finance,Middle East,7,778.99,Resolved,Sara Fernandez
+INC-0435,2024-03-21,Social Engineering,Medium,Customer Support,North America,2,6023.61,Escalated,Wei Zhang
+INC-0436,2025-10-31,Man-in-the-Middle,Low,R&D,North America,2,200.15,In Progress,Liam O'Connor
+INC-0437,2025-06-04,Zero-Day Exploit,Medium,Legal,Asia Pacific,8,9349.3,Escalated,Priya Nair
+INC-0438,2025-07-27,Social Engineering,High,Customer Support,Asia Pacific,43,24209.68,In Progress,Sara Fernandez
+INC-0439,2024-01-03,SQL Injection,Low,Legal,North America,3,347.74,Resolved,Tom Becker
+INC-0440,2024-04-19,Malware,Low,Sales,North America,8,553.61,Closed - No Action,Sara Fernandez
+INC-0441,2024-12-12,Man-in-the-Middle,Low,Finance,Middle East,8,1002.58,Resolved,Arjun Mehta
+INC-0442,2025-05-25,Phishing,Low,R&D,Middle East,3,657.5,Resolved,Arjun Mehta
+INC-0443,2024-05-11,Social Engineering,Low,Legal,Middle East,10,576.8,Escalated,Sara Fernandez
+INC-0444,2024-10-07,Insider Threat,Medium,Operations,Latin America,10,3243.62,Escalated,Liam O'Connor
+INC-0445,2025-12-19,Insider Threat,Medium,Sales,Europe,6,8429.46,Resolved,Arjun Mehta
+INC-0446,2025-12-28,DDoS,High,Legal,North America,38,56484.18,Escalated,Tom Becker
+INC-0447,2025-11-21,Credential Stuffing,High,Operations,Latin America,2,53636.56,Escalated,Tom Becker
+INC-0448,2024-05-28,Phishing,Low,Sales,Asia Pacific,5,344.84,Escalated,Liam O'Connor
+INC-0449,2024-05-29,SQL Injection,High,Sales,Middle East,7,74609.89,Resolved,Sara Fernandez
+INC-0450,2025-10-24,Malware,Medium,Operations,North America,6,5487.99,Closed - No Action,Pratik Chandra
+INC-0451,2024-01-14,Malware,High,Customer Support,Europe,42,66733.29,Closed - No Action,Priya Nair
+INC-0452,2025-08-25,Social Engineering,Medium,Sales,Europe,2,3596.83,Resolved,Arjun Mehta
+INC-0453,2024-06-26,Ransomware,High,R&D,North America,9,56075.1,Resolved,Arjun Mehta
+INC-0454,2025-08-21,Phishing,High,Legal,Latin America,10,27146.01,In Progress,Priya Nair
+INC-0455,2025-09-03,Social Engineering,Low,Operations,Latin America,2,695.14,Escalated,Priya Nair
+INC-0456,2025-06-22,DDoS,Low,IT,Middle East,7,688.77,Resolved,Neha Verma
+INC-0457,2024-12-23,Malware,Low,Legal,Asia Pacific,10,396.6,Resolved,Wei Zhang
+INC-0458,2025-07-28,Phishing,High,IT,Asia Pacific,40,81123.75,Resolved,Sara Fernandez
+INC-0459,2024-02-10,Insider Threat,High,R&D,North America,19,54897.09,Resolved,Pratik Chandra
+INC-0460,2025-06-13,Insider Threat,High,Customer Support,Latin America,13,80676.28,Resolved,Priya Nair
+INC-0461,2025-06-10,Ransomware,Low,HR,Middle East,4,764.24,Resolved,Sara Fernandez
+INC-0462,2025-12-02,Ransomware,Medium,Sales,Middle East,7,9907.74,Escalated,Neha Verma
+INC-0463,2025-12-03,Zero-Day Exploit,Low,Legal,North America,5,248.84,Resolved,Neha Verma
+INC-0464,2025-08-11,SQL Injection,High,R&D,Latin America,21,45120.26,Resolved,Pratik Chandra
+INC-0465,2025-02-02,Credential Stuffing,High,Finance,Middle East,3,69708.47,Resolved,Neha Verma
+INC-0466,2025-01-01,Ransomware,Critical,Operations,Asia Pacific,29,181346.28,In Progress,Tom Becker
+INC-0467,2025-02-08,Phishing,High,Customer Support,Europe,26,25819.47,Resolved,Liam O'Connor
+INC-0468,2025-10-11,Insider Threat,Low,Finance,Middle East,1,327.24,Escalated,Pratik Chandra
+INC-0469,2025-08-09,Credential Stuffing,Medium,IT,Asia Pacific,6,8672.87,Resolved,Sara Fernandez
+INC-0470,2025-02-26,Credential Stuffing,Critical,HR,Europe,17,302078.57,Resolved,Sara Fernandez
+INC-0471,2024-04-27,Social Engineering,Low,Finance,Middle East,5,694.7,Resolved,Neha Verma
+INC-0472,2024-09-13,Social Engineering,Low,Customer Support,Asia Pacific,4,804.17,Resolved,Neha Verma
+INC-0473,2024-10-18,Malware,Medium,Legal,Latin America,5,7547.08,Resolved,Arjun Mehta
+INC-0474,2025-08-02,Insider Threat,Medium,R&D,Europe,4,4215.58,Resolved,Tom Becker
+INC-0475,2024-10-10,DDoS,High,Legal,Latin America,20,41829.4,Resolved,Wei Zhang
+INC-0476,2025-07-18,Social Engineering,Low,IT,Asia Pacific,9,326.0,Escalated,Sara Fernandez
+INC-0477,2024-09-26,Ransomware,High,IT,North America,38,61477.11,Escalated,Tom Becker
+INC-0478,2025-08-27,Phishing,Low,Operations,Middle East,3,685.71,Escalated,Priya Nair
+INC-0479,2025-02-05,Social Engineering,Low,Operations,Europe,7,659.37,Resolved,Priya Nair
+INC-0480,2025-05-29,Malware,Low,HR,Middle East,10,343.3,Resolved,Arjun Mehta
+INC-0481,2025-05-10,Phishing,Critical,Sales,Latin America,15,175168.56,Resolved,Pratik Chandra
+INC-0482,2025-11-15,Insider Threat,Low,R&D,Latin America,1,993.4,Closed - No Action,Priya Nair
+INC-0483,2024-04-15,Credential Stuffing,High,Operations,Asia Pacific,25,57051.53,In Progress,Tom Becker
+INC-0484,2025-01-09,Ransomware,Medium,Operations,Latin America,7,4006.09,Closed - No Action,Priya Nair
+INC-0485,2024-12-19,Zero-Day Exploit,Medium,Finance,Middle East,4,5959.09,Escalated,Neha Verma
+INC-0486,2025-06-10,Malware,Medium,HR,Europe,2,7418.18,Resolved,Sara Fernandez
+INC-0487,2025-02-28,Ransomware,High,Customer Support,Latin America,42,58536.94,Resolved,Tom Becker
+INC-0488,2024-01-23,DDoS,Low,HR,Europe,10,235.27,In Progress,Arjun Mehta
+INC-0489,2024-02-27,DDoS,Low,R&D,Middle East,5,773.86,Closed - No Action,Neha Verma
+INC-0490,2024-08-09,Zero-Day Exploit,Medium,Customer Support,Europe,3,5696.9,Resolved,Arjun Mehta
+INC-0491,2025-09-30,SQL Injection,High,HR,Asia Pacific,5,58950.4,Closed - No Action,Sara Fernandez
+INC-0492,2025-01-22,Ransomware,Medium,Finance,Europe,7,10184.05,Resolved,Arjun Mehta
+INC-0493,2025-09-12,Zero-Day Exploit,Low,Finance,Middle East,8,305.76,Resolved,Arjun Mehta
+INC-0494,2025-09-09,Phishing,Medium,R&D,Middle East,9,9873.42,Resolved,Tom Becker
+INC-0495,2024-08-22,Zero-Day Exploit,Critical,R&D,Asia Pacific,45,346901.86,In Progress,Neha Verma
+INC-0496,2025-03-11,Zero-Day Exploit,Low,Sales,North America,7,989.09,Resolved,Liam O'Connor
+INC-0497,2024-07-12,Phishing,Low,IT,Middle East,6,789.09,Resolved,Tom Becker
+INC-0498,2025-01-05,Man-in-the-Middle,Low,Operations,Asia Pacific,6,581.21,Escalated,Liam O'Connor
+INC-0499,2025-11-27,Malware,Medium,R&D,Middle East,6,6342.21,Escalated,Wei Zhang
+INC-0500,2024-09-16,Social Engineering,Critical,Legal,Latin America,43,387799.61,In Progress,Neha Verma
