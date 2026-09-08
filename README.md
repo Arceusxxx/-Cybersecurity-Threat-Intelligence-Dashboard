@@ -98,6 +98,3 @@ RETURN DIVIDE(CurrentMonth - PriorMonth, PriorMonth)
 ## ✅ Conclusion
 
 The Cybersecurity Threat Intelligence Dashboard gives a comprehensive view of organizational security posture by integrating incident data, vulnerability metrics, and response performance analytics into a single interactive Power BI solution — surfacing where risk concentrates, how fast the team responds, and where patch management is falling behind.
-
----
-*Synthetic dataset generated for portfolio/demo purposes — not real incident data.*
